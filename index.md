@@ -6,9 +6,11 @@
     - [获取用户信息](/docs/{{version}}/auth/profile)
 - ## 用户
     - [获取其他用户信息](/docs/{{version}}/user/users)
+    - [更新用户信息](/docs/{{version}}/user/user-update)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
+    - [图片上传](/docs/{{version}}/service/file-oss)
 - ## 标签
     - [获取标签](/docs/{{version}}/tag/tags)
     - [编辑标签](/docs/{{version}}/tag/tag-edit)
