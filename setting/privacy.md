@@ -32,3 +32,14 @@
     "ok": 1
 }
 ```
+
+## 异常示例
+
+> - `push notify 必须为布尔值`
+
+```json
+{
+    "msg": "mobile enabled 必须为布尔值",
+    "ok": 0
+}
+```
