@@ -16,9 +16,9 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-## 响应参数
+## 请求参数
 
-> - `tags` 标签 `1,2,3`
+> - `tags` 标签 eg. `1,2,3`
 
 ## 响应示例
 
