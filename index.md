@@ -25,5 +25,5 @@
 - ## 安全
     - [重置密码](/docs/{{version}}/security/password-reset)
     - [密码忘记](/docs/{{version}}/security/password-forget)
-    - [密码检查](/docs/{{version}}/security/password-check.md)
+    - [密码检查](/docs/{{version}}/security/password-check)
     - [重置手机](/docs/{{version}}/security/mobile-reset)
