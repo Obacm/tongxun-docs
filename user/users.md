@@ -22,23 +22,23 @@
 
 ## 响应参数
 
-> - `id` 用户ID
-> - `tx_id` 同讯ID
-> - `accid` 云信ID
-> - `name` 用户昵称
-> - `avatar` 头像
-> - `gender` 性别
-> - `birthday` 生日
-> - `province` 省
-> - `city` 市
-> - `level` 用户等级
-> - `mobile` 手机号
-> - `tags` 用户标签
-> - `privacies` 用户隐私
-> - `has_idcard_verified` 身份认证
-> - `has_payee_verified` 支付宝认证
-> - `active_at` 最近活动时间
-> - `login_at` 登陆时间
+> - `id` `int` 用户ID
+> - `tx_id` `string` 同讯ID
+> - `accid` `string` 云信ID
+> - `name` `string` 用户昵称
+> - `avatar` `string` 头像
+> - `gender` `string` 性别
+> - `birthday` `string` 生日
+> - `province` `string` 省
+> - `city` `string` 市
+> - `level` `int` 用户等级
+> - `mobile` `string` 手机号
+> - `tags` `array` 用户标签
+> - `privacies` `json` 用户隐私
+> - `has_idcard_verified` `bool` 身份认证
+> - `has_payee_verified` `bool` 支付宝认证
+> - `active_at` `string` 最近活动时间
+> - `login_at` `string` 登陆时间
 
 ## 响应示例
 

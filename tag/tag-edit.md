@@ -18,10 +18,10 @@
 
 ## 响应参数
 
-> - `id` 标签ID
-> - `name` 标签
-> - `type` 标签类型 ` 1: 身份 2: 工种`
-> - `selected` 是否已选择
+> - `id` `int` 标签ID
+> - `name` `string` 标签
+> - `type` `int` 标签类型 ` 1: 身份 2: 工种`
+> - `selected` `bool` 是否已选择
 
 ## 响应示例
 

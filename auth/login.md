@@ -14,8 +14,8 @@
 
 #### Body
 
-> - `mobile` 手机号码
-> - `password` 密码
+> - `mobile` `string` 手机号码
+> - `password` `string` 密码
 
 ## 响应示例
 

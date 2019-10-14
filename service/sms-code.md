@@ -14,7 +14,7 @@
 
 #### Body
 
-> - `mobile` 手机号码
+> - `mobile` `string` 手机号码
 
 
 ## 响应示例

@@ -14,8 +14,8 @@
 
 #### Body
 
-> - `mobile` 手机号码
-> - `verify_code` 验证码
+> - `mobile` `string` 手机号码
+> - `verify_code` `string` 验证码
 
 ## 响应示例
 

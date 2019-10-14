@@ -14,9 +14,9 @@
 
 #### Body
 
-> - `mobile` 手机号码
-> - `password` 密码
-> - `password_confirmation` 密码确认
+> - `mobile` `string` 手机号码
+> - `password` `string` 密码
+> - `password_confirmation` `string` 密码确认
 
 ## 响应示例
 

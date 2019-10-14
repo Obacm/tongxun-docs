@@ -18,8 +18,8 @@
 
 ## 请求参数
 
-> - `push_notify` 推送  `[0, 1]`
-> - `email_notify` 邮箱  `[0, 1]`
+> - `push_notify` `int` 推送  `[0, 1]`
+> - `email_notify` `int` 邮箱  `[0, 1]`
 
 ## 响应示例
 
