@@ -11,3 +11,6 @@
     - [获取标签](/docs/{{version}}/tag/tags)
     - [编辑标签](/docs/{{version}}/tag/tag-edit)
     - [修改标签](/docs/{{version}}/tag/tag-update)
+- ## 设置
+    - [通知设置](/docs/{{version}}/setting/notify)
+    - [隐私设置](/docs/{{version}}/setting/privacy)
