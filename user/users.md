@@ -6,7 +6,7 @@
 
 > `users/[id]`
 
-##### <font color="yellow">须知</font>
+##### <font color="blue">须知</font>
 
 > {warning} [id] 表示用户ID 需要把用户ID 拼接在 `users/` 后面
 
