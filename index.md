@@ -7,6 +7,10 @@
 - ## 用户
     - [获取其他用户信息](/docs/{{version}}/user/users)
     - [更新用户信息](/docs/{{version}}/user/user-update)
+- ## 地址
+    - [地址列表](/docs/{{version}}/site/sites)
+    - [地址创建](/docs/{{version}}/site/site-create)
+    - [地址更新](/docs/{{version}}/site/site-update)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
