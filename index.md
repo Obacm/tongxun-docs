@@ -4,6 +4,8 @@
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
     - [获取用户信息](/docs/{{version}}/auth/profile)
+- ## 用户
+    - [获取其他用户信息](/docs/{{version}}/user/users)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
