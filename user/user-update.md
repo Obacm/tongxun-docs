@@ -29,8 +29,6 @@
 > - `province` `string` 省
 > - `city` `string` 市
 
-##### <font color="red">提示</font>
-
 > :facepunch: 以上参数皆是可选
 
 ## 响应示例
