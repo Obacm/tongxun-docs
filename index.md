@@ -3,3 +3,4 @@
 - ## 用户认证
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
+    - [获取用户信息](/docs/{{version}}/auth/profile)
