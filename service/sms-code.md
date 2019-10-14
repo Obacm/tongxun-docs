@@ -16,7 +16,6 @@
 
 > - `mobile` `string` 手机号码
 
-
 ## 响应示例
 
 ```json

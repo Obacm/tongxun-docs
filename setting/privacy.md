@@ -16,7 +16,7 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-## 请求参数
+#### Body
 
 > - `mobile_enabled` `int` 手机  `[0, 1]`
 > - `qa_enabled` `int` 问答  `[0, 1]`

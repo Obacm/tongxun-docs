@@ -20,7 +20,7 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-## 响应参数
+#### Body
 
 > - `name` `string` 用户昵称
 > - `avatar` `string` 头像

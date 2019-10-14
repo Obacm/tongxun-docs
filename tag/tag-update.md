@@ -16,7 +16,7 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-## 请求参数
+#### Body
 
 > - `tags` `string` 标签 eg. `1,2,3`
 

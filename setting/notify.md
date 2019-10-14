@@ -16,7 +16,7 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-## 请求参数
+#### Body
 
 > - `push_notify` `int` 推送  `[0, 1]`
 > - `email_notify` `int` 邮箱  `[0, 1]`
