@@ -32,7 +32,7 @@
             {
                 "id": 1,
                 "name": "全职",
-                "type": "1",
+                "type": 1,
                 "selected": true
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "id": 2,
                 "name": "服务员",
-                "type": "2",
+                "type": 2,
                 "selected": true
             }
         ]
