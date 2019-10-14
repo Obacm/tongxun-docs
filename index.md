@@ -7,3 +7,7 @@
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
+- ## 标签
+    - [获取标签](/docs/{{version}}/tag/tags)
+    - [编辑标签](/docs/{{version}}/tag/tag-edit)
+    - [修改标签](/docs/{{version}}/tag/tag-update)
