@@ -4,7 +4,9 @@
 
 ## 请求地址
 
-> `users/`{id}``
+> `users/[id]`
+
+> {warning} [id] 表示用户ID 需要把用户ID 拼接在 `users/` 后面
 
 ## 请求类型
 
