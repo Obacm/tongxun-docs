@@ -23,6 +23,7 @@
 > - `accid` `string` 云信ID
 > - `name` `string` 用户昵称
 > - `avatar` `string` 头像
+> - `description` `string` 个性签名
 > - `gender` `string` 性别
 > - `birthday` `string` 生日
 > - `province` `string` 省
@@ -45,6 +46,7 @@
         "accid": "yx_1",
         "name": "tx_7640aedcb77b",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+        "description": "",
         "gender": "male",
         "birthday": "",
         "province": "",
