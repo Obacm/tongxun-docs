@@ -8,6 +8,7 @@
     - [获取其他用户信息](/docs/{{version}}/user/users)
     - [更新用户信息](/docs/{{version}}/user/user-update)
     - [用户检查](/docs/{{version}}/user/user-check)
+    - [用户查询](/docs/{{version}}/user/user-search)
 - ## 地址
     - [地址列表](/docs/{{version}}/site/sites)
     - [地址创建](/docs/{{version}}/site/site-create)
