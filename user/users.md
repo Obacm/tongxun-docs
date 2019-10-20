@@ -34,7 +34,6 @@
 > - `city` `string` 市
 > - `level` `int` 用户等级
 > - `mobile` `string` 手机号
-> - `tags` `array` 用户标签
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
 > - `has_payee_verified` `bool` 支付宝认证
@@ -53,18 +52,6 @@
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "description": "",
         "level": 0,
-        "tags": [
-            {
-                "id": 1,
-                "name": "全职",
-                "type": 1
-            },
-            {
-                "id": 2,
-                "name": "服务员",
-                "type": 2
-            }
-        ],
         "privacies": {
             "qa_enabled": false,
             "task_enabled": false,

@@ -46,7 +46,6 @@
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "description": "",
         "level": 0,
-        "tags": [],
         "privacies": {
             "qa_enabled": false,
             "task_enabled": false,
