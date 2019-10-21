@@ -12,6 +12,10 @@
 
 ## 请求参数
 
+#### Header
+
+> - `Authorization` `Bearer access_token` 授权token
+
 #### Query
 
 > - `mobile` `string` 手机号码
