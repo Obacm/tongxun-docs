@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `users/search`
+> `user/search`
 
 ## 请求类型
 

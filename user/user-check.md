@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `users/check`
+> `user/check`
 
 ## 请求类型
 
