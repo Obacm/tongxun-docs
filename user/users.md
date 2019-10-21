@@ -46,9 +46,9 @@
 {
     "data": {
         "id": 1,
-        "tx_id": "tx_7640aedcb77b",
+        "tx_id": "7640aedcb77b",
         "accid": "yx_1",
-        "name": "tx_7640aedcb77b",
+        "name": "7640aedcb77b",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "description": "",
         "level": 0,
