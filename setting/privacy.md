@@ -39,6 +39,7 @@
 
 ```json
 {
+    "errno": 10006,
     "msg": "mobile enabled 必须为布尔值",
     "ok": 0
 }
