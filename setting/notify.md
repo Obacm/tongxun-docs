@@ -33,11 +33,12 @@
 
 ## 异常示例
 
-> - `push notify 必须为布尔值`
+> - `system_notify 必须为布尔值`
 
 ```json
 {
-    "msg": "push notify 必须为布尔值",
+    "errno": 20001,
+    "msg": "system_notify 必须为布尔值",
     "ok": 0
 }
 ```
