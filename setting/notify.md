@@ -18,8 +18,10 @@
 
 #### Body
 
-> - `push_notify` `int` 推送  `[0, 1]`
-> - `email_notify` `int` 邮箱  `[0, 1]`
+> - `system_notify` `int` 系统消息  `[0, 1]`
+> - `task_notify` `int` 任务消息  `[0, 1]`
+> - `qa_notify` `int` 问答消息  `[0, 1]`
+> - `im_notify` `int` 聊天消息  `[0, 1]`
 
 ## 响应示例
 
