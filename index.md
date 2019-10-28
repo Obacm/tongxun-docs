@@ -9,6 +9,10 @@
     - [更新用户信息](/docs/{{version}}/user/user-update)
     - [用户检查](/docs/{{version}}/user/user-check)
     - [用户查询](/docs/{{version}}/user/user-search)
+- ## 认证
+    - [实名认证](/docs/{{version}}/verify/person)
+    - [支付宝认证](/docs/{{version}}/verify/alipay)
+    - [支付宝授权](/docs/{{version}}/verify/alipay-auth)
 - ## 地址
     - [地址列表](/docs/{{version}}/site/sites)
     - [地址创建](/docs/{{version}}/site/site-create)
