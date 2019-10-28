@@ -37,7 +37,7 @@
 
 ```json
 {
-    "errno": 20001,
+    "errno": 10006,
     "msg": "system_notify 必须为布尔值",
     "ok": 0
 }
