@@ -29,3 +29,5 @@
     - [密码忘记](/docs/{{version}}/security/password-forget)
     - [密码检查](/docs/{{version}}/security/password-check)
     - [重置手机](/docs/{{version}}/security/mobile-reset)
+    - [支付密码设置](/docs/{{version}}/security/pay-password)
+    - [支付密码重置](/docs/{{version}}/security/pay-password-reset)
