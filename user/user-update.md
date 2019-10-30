@@ -40,24 +40,28 @@
 {
     "data": {
         "id": 1,
-        "tx_id": "7640aedcb77b",
+        "tx_id": "f3d0d305f962",
         "accid": "yx_1",
-        "name": "obacm",
+        "name": "obacmsss",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "description": "",
+        "gender": "male",
+        "birthday": "",
+        "province": "",
+        "city": "",
         "level": 0,
         "privacies": {
             "qa_enabled": false,
             "task_enabled": false,
             "email_enabled": false,
-            "gender_enabled": false,
+            "gender_enabled": true,
             "mobile_enabled": true,
-            "address_enabled": false
+            "address_enabled": true
         },
-        "has_idcard_verified": false,
-        "has_payee_verified": false,
+        "has_idcard_verified": true,
+        "has_payee_verified": true,
         "active_at": "",
-        "login_at": "2019-10-14 11:19:00"
+        "login_at": "2019-10-30 14:55:55"
     },
     "ok": 1
 }
