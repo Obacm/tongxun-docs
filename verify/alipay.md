@@ -18,8 +18,7 @@
 
 #### Body
 
-> - `payee_id` `string` 支付宝ID
-> - `payee_name` `string` 支付宝昵称
+> - `auth_code` `string` 授权码
 
 ## 响应示例
 
