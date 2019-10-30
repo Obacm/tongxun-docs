@@ -22,6 +22,7 @@
 > - `tx_id` `string` 同讯ID
 > - `accid` `string` 云信ID
 > - `name` `string` 用户昵称
+> - `mobile` `string` 手机号
 > - `avatar` `string` 头像
 > - `description` `string` 个性签名
 > - `gender` `string` 性别
@@ -44,6 +45,7 @@
         "tx_id": "7640aedcb77b",
         "accid": "yx_1",
         "name": "7640aedcb77b",
+        "mobile": "15140569062",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "description": "",
         "gender": "male",
