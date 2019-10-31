@@ -25,7 +25,7 @@
 > - `name` `string` 用户昵称
 > - `avatar` `string` 头像
 > - `description` `string` 个性签名
-> - `gender` `string` 性别
+> - `gender` `string` 性别 `[male: 男, female: 女]`
 > - `birthday` `string` 生日
 > - `province` `string` 省
 > - `city` `string` 市
