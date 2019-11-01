@@ -24,7 +24,7 @@
 > - `address` `string` 地址
 > - `mobile` `string` 手机
 > - `village` `string` 详情
-> - `default` `bool` 是否默认
+> - `is_default` `bool` 是否默认
 
 ## 响应示例
 
