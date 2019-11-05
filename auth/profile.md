@@ -58,7 +58,6 @@
             "im_notify": true,
             "qa_notify": true,
             "task_notify": true,
-            "email_notify": true,
             "system_notify": true
         },
         "privacies": {
