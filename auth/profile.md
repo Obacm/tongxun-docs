@@ -30,6 +30,7 @@
 > - `province` `string` 省
 > - `city` `string` 市
 > - `level` `int` 用户等级
+> - `settings` `json` 通知设置
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
 > - `has_payee_verified` `bool` 支付宝认证
@@ -53,6 +54,13 @@
         "province": "",
         "city": "",
         "level": 0,
+        "settings": {
+            "im_notify": true,
+            "qa_notify": true,
+            "task_notify": true,
+            "email_notify": true,
+            "system_notify": true
+        },
         "privacies": {
             "qa_enabled": true,
             "task_enabled": true,
