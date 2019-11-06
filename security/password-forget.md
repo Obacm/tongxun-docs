@@ -19,6 +19,7 @@
 #### Body
 
 > - `mobile` `string` 手机号
+> - `verify_code` `string` 短信验证码
 > - `password` `string` 密码
 > - `password_confirmation` `string` 密码确认
 
