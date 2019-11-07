@@ -34,6 +34,7 @@
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
 > - `has_payee_verified` `bool` 支付宝认证
+> - `has_pay_password` `bool` 是否设置支付密码
 > - `active_at` `string` 最近活动时间
 > - `login_at` `string` 登陆时间
 
@@ -70,6 +71,7 @@
         },
         "has_idcard_verified": false,
         "has_payee_verified": false,
+        "has_pay_password": true,
         "active_at": "",
         "login_at": "2019-10-14 09:44:58"
     },
