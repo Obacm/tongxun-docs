@@ -25,6 +25,7 @@
 > - `address` `string` 地址
 > - `mobile` `string` 手机
 > - `village` `string` 详情
+> - `citycode` `string` 城市码
 > - `is_default` `bool` 是否默认
 
 ## 响应示例
@@ -40,6 +41,7 @@
             "address": "辽宁省大连市甘井子区",
             "mobile": "15140569062",
             "village": "西关街38-205",
+            "citycode": "0411",
             "is_default": true
         },
         {
@@ -50,6 +52,7 @@
             "address": "辽宁省大连市甘井子区",
             "mobile": "15140569062",
             "village": "西关街38-205",
+            "citycode": "0411",
             "is_default": false
         }
     ],
