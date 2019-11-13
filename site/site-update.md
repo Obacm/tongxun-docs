@@ -24,9 +24,7 @@
 
 > - `longitude` `float` 经度
 > - `latitude` `float` 纬度
-> - `realname` `string` 姓名
 > - `address` `string` 地址
-> - `mobile` `string` 手机
 > - `village` `string` 详情
 > - `citycode` `string` 城市码
 > - `is_default` `bool` 是否默认
