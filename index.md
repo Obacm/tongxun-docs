@@ -18,6 +18,8 @@
     - [地址创建](/docs/{{version}}/site/site-create)
     - [地址更新](/docs/{{version}}/site/site-update)
     - [地址删除](/docs/{{version}}/site/site-delete)
+- ## 任务
+    - [任务分类](/docs/{{version}}/task/node)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
