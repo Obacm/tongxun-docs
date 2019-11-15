@@ -18,7 +18,7 @@
 
 #### Body
 
-> - `gateway` `string` 支付渠道
+> - `gateway` `string` 支付渠道 `alipay: 支付宝`
 > - `order_no` `string` 订单号
 
 ## 响应示例
