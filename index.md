@@ -20,6 +20,9 @@
     - [地址删除](/docs/{{version}}/site/site-delete)
 - ## 任务
     - [任务分类](/docs/{{version}}/task/node)
+- ## 交易
+    - [订单创建](/docs/{{version}}/trade/order-create)
+    - [钱包充值](/docs/{{version}}/trade/trade-recharge)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
