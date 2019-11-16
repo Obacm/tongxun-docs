@@ -24,8 +24,7 @@
 ## 响应参数
 
 > - `id` `int` 账单ID
-> - `int_sum` `string` 总收入  `只在第一页时返回`
-> - `out_sum` `string` 总支出  `只在第一页时返回`
+> - `sums` `json` 总收入 支出
 > - `user` `json` 用户信息
 > - `subject` `string` 账单详情
 > - `actual_amount` `string` 金额
@@ -148,6 +147,8 @@
         "per_page": 15,
         "to": 5,
         "total": 5,
+    },
+    "sums": {
         "int_sum": "0.04",
         "out_sum": "0.01"
     },
