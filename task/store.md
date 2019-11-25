@@ -18,6 +18,7 @@
 
 #### Body
 
+> - `id` `int` 任务ID `可选参数，存在: 更新当前任务信息，不存在: 新增草稿`
 > - `title` `string` 标题
 > - `hire_amount` `decimal` 佣金
 > - `fee_amount` `decimal` 赏金

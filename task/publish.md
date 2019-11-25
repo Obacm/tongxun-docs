@@ -18,6 +18,7 @@
 
 #### Body
 
+> - `id` `int` 任务ID `可选参数，存在: 更新当前任务信息并发布，不存在: 发布新的任务`
 > - `title` `string` 标题
 > - `hire_amount` `decimal` 佣金
 > - `fee_amount` `decimal` 赏金
