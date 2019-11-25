@@ -30,7 +30,7 @@
         "accid": "yx_1",
         "name": "7640aedcb77b",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-        "description": "",
+        "bio": "",
         "level": 0,
         "privacies": {
             "qa_enabled": false,

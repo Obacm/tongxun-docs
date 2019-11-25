@@ -24,7 +24,7 @@
 
 > - `name` `string` 用户昵称
 > - `avatar` `string` 头像
-> - `description` `string` 个性签名
+> - `bio` `string` 个性签名
 > - `gender` `string` 性别 `[male: 男, female: 女]`
 > - `birthday` `string` 生日
 > - `province` `string` 省
@@ -44,7 +44,7 @@
         "accid": "yx_1",
         "name": "obacmsss",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-        "description": "",
+        "bio": "",
         "gender": "male",
         "birthday": "",
         "province": "",

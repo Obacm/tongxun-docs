@@ -24,7 +24,7 @@
 > - `name` `string` 用户昵称
 > - `mobile` `string` 手机号
 > - `avatar` `string` 头像
-> - `description` `string` 个性签名
+> - `bio` `string` 个性签名
 > - `gender` `string` 性别
 > - `birthday` `string` 生日
 > - `province` `string` 省
@@ -49,7 +49,7 @@
         "name": "7640aedcb77b",
         "mobile": "15140569062",
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-        "description": "",
+        "bio": "",
         "gender": "male",
         "birthday": "",
         "province": "",
