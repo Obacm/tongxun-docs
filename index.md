@@ -39,6 +39,10 @@
     - [完成任务](/docs/{{version}}/task/complete)
     - [任务评论](/docs/{{version}}/task/comment)
     - [任务分享](/docs/{{version}}/task/share)
+    - [全部任务](/docs/{{version}}/task/member)
+    - [我的发布](/docs/{{version}}/task/member-published)
+    - [我的投递](/docs/{{version}}/task/member-applied)
+    - [待发布](/docs/{{version}}/task/member-be-publish)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
