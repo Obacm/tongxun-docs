@@ -67,7 +67,7 @@
             "body": "",
             "actual_amount": "45.00",
             "channel": "wallet",
-            "status": 0,
+            "state": 0,
             "orderable_id": 19,
             "orderable_type": "task",
             "succeed_at": "",
