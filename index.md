@@ -1,5 +1,7 @@
 - ## 开始使用
     - [概括](/docs/{{version}}/overview)
+- ## 综合
+    - [热门城市](/docs/{{version}}/complex/hot-city)
 - ## 用户认证
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
