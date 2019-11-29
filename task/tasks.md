@@ -14,15 +14,15 @@
 
 #### Query
 
-> - `latitude` `string` 纬度
-> - `longitude` `string` 经度
-> - `filter` `string` 查询条件 `multiple: 综合，distance: 距离, fee: 赏金, published: 发布时间, hire: 佣金`
+> - `latitude` `string` 纬度  `必需传`
+> - `longitude` `string` 经度 `必需传`
+> - `filter` `string` 查询条件 `必需传` `multiple: 综合，distance: 距离, fee: 赏金, published: 发布时间, hire: 佣金` 
 > - `node` `string` 任务分类
 > - `sort` `string` 排序 `desc: 降序， asc: 升序` `发布时间 && 佣金有排序参数`
 
 ## 响应示例
 
-> - `distance` `json` 距离
+> - `distance` `float` 距离
 > - `order` `json` 订单信息
 > - `has_fee_amount` `bool` 是否有赏金
 > - `has_published` `bool` 是否已发布
