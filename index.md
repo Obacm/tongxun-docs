@@ -22,6 +22,8 @@
     - [地址删除](/docs/{{version}}/site/site-delete)
 - ## 任务
     - [任务分类](/docs/{{version}}/task/node)
+    - [任务圈](/docs/{{version}}/task/tasks)
+    - [任务圈](/docs/{{version}}/task/node)
     - [任务云端草稿](/docs/{{version}}/task/store)
     - [任务发布](/docs/{{version}}/task/publish)
     - [会话建立](/docs/{{version}}/task/session)
