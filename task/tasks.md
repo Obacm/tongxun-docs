@@ -22,7 +22,6 @@
 ## 响应示例
 
 > - `distance` `float` 距离
-> - `order` `json` 订单信息
 > - `has_fee_amount` `bool` 是否有赏金
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
