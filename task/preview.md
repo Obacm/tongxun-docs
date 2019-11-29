@@ -1,4 +1,4 @@
-# 任务预览
+# 任务圈-任务详情
 
 任务详情
 
@@ -23,57 +23,57 @@
 ```json
 {
     "data": {
-        "id": 18,
-        "task_no": "TS_20191125103757764562",
+        "id": 17,
+        "task_no": "TS_20191129093617791769",
         "user": {
             "id": 1,
             "tx_id": "f3d0d305f962",
             "accid": "yx_1",
             "name": "obacmss",
             "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-            "description": "",
+            "bio": "",
             "level": 0
         },
-        "title": "上门修理电脑",
+        "title": "测试队列66",
         "hire_amount": "20.00",
-        "fee_amount": "45.00",
+        "fee_amount": "0.00",
         "node": 2,
         "mode": 1,
         "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
-        "longitude": 104.07642,
-        "latitude": 38.6518,
+        "longitude": 110.522736,
+        "latitude": 31.23783,
         "citycode": "0411",
         "position": {
             "type": "Point",
             "coordinates": [
-                104.07642,
-                38.6518
+                110.522736,
+                31.23783
             ]
         },
-        "description": "电脑开不开机",
+        "description": "测试队列66",
         "pics": [
             "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
             "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
         ],
-        "state": 7,
+        "state": 1,
         "views_count": 0,
-        "has_fee_amount": true,
-        "start_at": "2019-11-25 17:00:00",
-        "end_at": "2019-11-25 20:00:00",
-        "published_at": "2019-11-25 10:38:15",
-        "paid_at": "2019-11-25 10:38:15",
-        "applied_at": "2019-11-25 10:49:02",
-        "completed_at": "2019-11-25 10:49:48",
-        "confirmed_at": "2019-11-25 11:11:09",
+        "has_fee_amount": false,
+        "start_at": "2019-11-29 15:25:00",
+        "end_at": "2019-11-29 15:30:00",
+        "published_at": "2019-11-29 09:36:17",
+        "paid_at": "",
+        "applied_at": "",
+        "completed_at": "",
+        "confirmed_at": "",
         "canceled_at": "",
-        "created_at": "2019-11-25 10:37:57",
+        "created_at": "2019-11-29 09:36:17",
         "process": {
             "has_published": true,
-            "has_paid": true,
-            "has_applied": true,
+            "has_paid": false,
+            "has_applied": false,
             "has_canceled": false,
-            "has_completed": true,
-            "has_confirmed": true,
+            "has_completed": false,
+            "has_confirmed": false,
             "has_invalided": false
         }
     },
