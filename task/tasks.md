@@ -21,7 +21,17 @@
 
 ## 响应示例
 
-> - `distance` `float` 距离
+> - `title` `string` 标题
+> - `hire_amount` `string` 佣金
+> - `fee_amount` `string` 赏金
+> - `fee_amount` `string` 赏金
+> - `node` `json` 分类
+> - `mode` `json` 二级分类
+> - `address` `string` 地址
+> - `pics` `array` 图片
+> - `start_at` `string` 起始时间
+> - `end_at` `string` 结束时间
+> - `published_at` `string` 发布时间
 > - `has_fee_amount` `bool` 是否有赏金
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
@@ -48,8 +58,15 @@
             "title": "测试队列66",
             "hire_amount": "10.00",
             "fee_amount": "0.00",
-            "node": 2,
-            "mode": 1,
+            "node": {
+                "id": 2,
+                "name": "家政服务",
+                "hot": 0
+            },
+            "mode": {
+                "id": 1,
+                "name": "鲜花"
+            },
             "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
             "longitude": 110.522736,
             "latitude": 31.23783,
@@ -104,8 +121,15 @@
             "title": "测试队列66",
             "hire_amount": "10.00",
             "fee_amount": "0.00",
-            "node": 2,
-            "mode": 1,
+            "node": {
+                "id": 2,
+                "name": "家政服务",
+                "hot": 0
+            },
+            "mode": {
+                "id": 1,
+                "name": "鲜花"
+            },
             "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
             "longitude": 110.522736,
             "latitude": 31.23783,

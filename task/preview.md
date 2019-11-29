@@ -37,8 +37,15 @@
         "title": "测试队列66",
         "hire_amount": "20.00",
         "fee_amount": "0.00",
-        "node": 2,
-        "mode": 1,
+        "node": {
+            "id": 2,
+            "name": "家政服务",
+            "hot": 0
+        },
+        "mode": {
+            "id": 1,
+            "name": "鲜花"
+        },
         "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
         "longitude": 110.522736,
         "latitude": 31.23783,
