@@ -45,6 +45,10 @@
     - [我的发布](/docs/{{version}}/task/member-published)
     - [我的投递](/docs/{{version}}/task/member-applied)
     - [待发布](/docs/{{version}}/task/member-be-publish)
+    - [全部任务](/docs/{{version}}/task/member)
+    - [我的发布](/docs/{{version}}/task/member-published)
+    - [我的投递](/docs/{{version}}/task/member-applied)
+    - [待发布](/docs/{{version}}/task/member-be-publish)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
