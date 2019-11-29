@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `task/[id]/preview`
+> `tasks/[id]`
 
 ## 请求类型
 
@@ -12,7 +12,6 @@
 
 ## 响应示例
 
-> - `order` `json` 订单信息
 > - `has_fee_amount` `bool` 是否有赏金
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
@@ -44,6 +43,13 @@
         "longitude": 104.07642,
         "latitude": 38.6518,
         "citycode": "0411",
+        "position": {
+            "type": "Point",
+            "coordinates": [
+                104.07642,
+                38.6518
+            ]
+        },
         "description": "电脑开不开机",
         "pics": [
             "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
