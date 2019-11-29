@@ -10,6 +10,12 @@
 
 > `GET`
 
+## 请求参数
+
+#### Header
+
+> - `Authorization` `Bearer access_token` 授权token
+
 ## 响应示例
 
 > - `order` `json` 订单信息
