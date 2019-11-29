@@ -25,8 +25,6 @@
 > - `hire_amount` `string` 佣金
 > - `fee_amount` `string` 赏金
 > - `fee_amount` `string` 赏金
-> - `node` `json` 分类
-> - `mode` `json` 二级分类
 > - `address` `string` 地址
 > - `pics` `array` 图片
 > - `start_at` `string` 起始时间
@@ -58,15 +56,6 @@
             "title": "测试队列66",
             "hire_amount": "10.00",
             "fee_amount": "0.00",
-            "node": {
-                "id": 2,
-                "name": "家政服务",
-                "hot": 0
-            },
-            "mode": {
-                "id": 1,
-                "name": "鲜花"
-            },
             "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
             "longitude": 110.522736,
             "latitude": 31.23783,
@@ -121,15 +110,6 @@
             "title": "测试队列66",
             "hire_amount": "10.00",
             "fee_amount": "0.00",
-            "node": {
-                "id": 2,
-                "name": "家政服务",
-                "hot": 0
-            },
-            "mode": {
-                "id": 1,
-                "name": "鲜花"
-            },
             "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
             "longitude": 110.522736,
             "latitude": 31.23783,
