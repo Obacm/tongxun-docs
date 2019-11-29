@@ -47,16 +47,6 @@
             "applier": "",
             "hire_amount": "30.00",
             "fee_amount": "0.00",
-            "node": {
-                "id": 2,
-                "name": "家政服务",
-                "hot": 0
-            },
-            "mode": {
-                "id": 1,
-                "name": "鲜花"
-            },
-            "site_id": 20,
             "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
             "longitude": 104.07642,
             "latitude": 38.6518,
