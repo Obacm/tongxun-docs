@@ -16,7 +16,8 @@
 
 > - `position` `string` 纬经度  `可选参数` `120.522736,38.86783` `经度在前，纬度在后`
 > - `filter` `string` 查询条件 `必需传` `multiple: 综合，distance: 距离, fee: 赏金, published: 发布时间, hire: 佣金` 
-> - `node` `string` 任务分类 `可选参数` 
+> - `node` `int` 一级分类 `可选参数` 
+> - `mode` `int` 二级分类 `可选参数` 
 > - `sort` `string` 排序 `可选参数`  `desc: 降序， asc: 升序` `发布时间 && 佣金有排序参数`
 
 ## 响应示例
