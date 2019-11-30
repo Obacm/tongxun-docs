@@ -27,6 +27,8 @@
 > - `fee_amount` `string` 赏金
 > - `fee_amount` `string` 赏金
 > - `address` `string` 地址
+> - `node` `int` 一级分类
+> - `mode` `int` 二级分类
 > - `pics` `array` 图片
 > - `start_at` `string` 起始时间
 > - `end_at` `string` 结束时间
