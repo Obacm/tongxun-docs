@@ -54,7 +54,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -108,7 +109,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -162,7 +164,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -218,7 +221,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -274,7 +278,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -330,7 +335,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",
@@ -386,7 +392,8 @@
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
                 "bio": "",
-                "level": 0
+                "level": 0,
+                "score": "2.0"
             },
             "title": "测试队列66",
             "hire_amount": "10.00",

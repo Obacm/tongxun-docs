@@ -48,7 +48,8 @@
             "name": "21cf8bd04e7e",
             "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
             "description": "",
-            "level": 0
+            "level": 0,
+            "score": "2.0"
         },
         "title": "上门修理电脑",
         "order": {
