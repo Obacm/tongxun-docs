@@ -78,7 +78,7 @@
             "has_fee_amount": false,
             "start_at": "2019-11-29 15:25:00",
             "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:36",
+            "published_at": "11-28 16-45",
             "paid_at": "",
             "applied_at": "",
             "completed_at": "",
@@ -132,7 +132,7 @@
             "has_fee_amount": false,
             "start_at": "2019-11-29 15:25:00",
             "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:35",
+            "published_at": "11-28 16-45",
             "paid_at": "",
             "applied_at": "",
             "completed_at": "",
@@ -188,7 +188,7 @@
             "has_fee_amount": false,
             "start_at": "2019-11-29 15:25:00",
             "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:33",
+            "published_at": "11-28 16-45",
             "paid_at": "",
             "applied_at": "",
             "completed_at": "",
@@ -244,7 +244,7 @@
             "has_fee_amount": false,
             "start_at": "2019-11-29 15:25:00",
             "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:32",
+            "published_at": "11-28 16-45",
             "paid_at": "",
             "applied_at": "",
             "completed_at": "",
@@ -300,7 +300,7 @@
             "has_fee_amount": false,
             "start_at": "2019-11-29 15:25:00",
             "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:30",
+            "published_at": "11-28 16-45",
             "paid_at": "",
             "applied_at": "",
             "completed_at": "",
@@ -428,175 +428,7 @@
                 "has_confirmed": false,
                 "has_invalided": false
             }
-        },
-        {
-            "id": 23,
-            "task_no": "TS_20191129093626403692",
-            "user": {
-                "id": 1,
-                "tx_id": "f3d0d305f962",
-                "accid": "yx_1",
-                "name": "obacmss",
-                "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "bio": "",
-                "level": 0
-            },
-            "title": "测试队列66",
-            "hire_amount": "10.00",
-            "fee_amount": "0.00",
-            "node": 2,
-            "mode": 1,
-            "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
-            "longitude": 110.522736,
-            "latitude": 31.23783,
-            "citycode": "0411",
-            "position": {
-                "type": "Point",
-                "coordinates": [
-                    110.522736,
-                    31.23783
-                ]
-            },
-            "distance": 1310.61,
-            "description": "测试队列66",
-            "pics": [
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-            ],
-            "state": 1,
-            "views_count": 0,
-            "has_fee_amount": false,
-            "start_at": "2019-11-29 15:25:00",
-            "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:26",
-            "paid_at": "",
-            "applied_at": "",
-            "completed_at": "",
-            "confirmed_at": "",
-            "canceled_at": "",
-            "created_at": "2019-11-29 09:36:26",
-            "process": {
-                "has_published": true,
-                "has_paid": false,
-                "has_applied": false,
-                "has_canceled": false,
-                "has_completed": false,
-                "has_confirmed": false,
-                "has_invalided": false
-            }
-        },
-        {
-            "id": 13,
-            "task_no": "TS_20191129093611363251",
-            "user": {
-                "id": 1,
-                "tx_id": "f3d0d305f962",
-                "accid": "yx_1",
-                "name": "obacmss",
-                "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "bio": "",
-                "level": 0
-            },
-            "title": "测试队列66",
-            "hire_amount": "10.00",
-            "fee_amount": "0.00",
-            "node": 2,
-            "mode": 1,
-            "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
-            "longitude": 110.522736,
-            "latitude": 31.23783,
-            "citycode": "0411",
-            "position": {
-                "type": "Point",
-                "coordinates": [
-                    110.522736,
-                    31.23783
-                ]
-            },
-            "distance": 1310.61,
-            "description": "测试队列66",
-            "pics": [
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-            ],
-            "state": 1,
-            "views_count": 0,
-            "has_fee_amount": false,
-            "start_at": "2019-11-29 15:25:00",
-            "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:11",
-            "paid_at": "",
-            "applied_at": "",
-            "completed_at": "",
-            "confirmed_at": "",
-            "canceled_at": "",
-            "created_at": "2019-11-29 09:36:11",
-            "process": {
-                "has_published": true,
-                "has_paid": false,
-                "has_applied": false,
-                "has_canceled": false,
-                "has_completed": false,
-                "has_confirmed": false,
-                "has_invalided": false
-            }
-        },
-        {
-            "id": 21,
-            "task_no": "TS_20191129093623754746",
-            "user": {
-                "id": 1,
-                "tx_id": "f3d0d305f962",
-                "accid": "yx_1",
-                "name": "obacmss",
-                "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "bio": "",
-                "level": 0
-            },
-            "title": "测试队列66",
-            "hire_amount": "10.00",
-            "fee_amount": "0.00",
-            "node": 2,
-            "mode": 1,
-            "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
-            "longitude": 110.522736,
-            "latitude": 31.23783,
-            "citycode": "0411",
-            "position": {
-                "type": "Point",
-                "coordinates": [
-                    110.522736,
-                    31.23783
-                ]
-            },
-            "distance": 1310.61,
-            "description": "测试队列66",
-            "pics": [
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-            ],
-            "state": 1,
-            "views_count": 0,
-            "has_fee_amount": false,
-            "start_at": "2019-11-29 15:25:00",
-            "end_at": "2019-11-29 15:30:00",
-            "published_at": "2019-11-29 09:36:23",
-            "paid_at": "",
-            "applied_at": "",
-            "completed_at": "",
-            "confirmed_at": "",
-            "canceled_at": "",
-            "created_at": "2019-11-29 09:36:23",
-            "process": {
-                "has_published": true,
-                "has_paid": false,
-                "has_applied": false,
-                "has_canceled": false,
-                "has_completed": false,
-                "has_confirmed": false,
-                "has_invalided": false
-            }
-        }
+        }   
     ],
     "links": {
         "first": "http://api.tongxun.test/api/tasks/filter?page=1",
