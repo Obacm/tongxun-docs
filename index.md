@@ -63,6 +63,7 @@
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
+    - [钱包支付](/docs/{{version}}/trade/trade-payment)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
 - ## 服务
