@@ -25,6 +25,7 @@
 > - `has_confirmed` `bool` 是否已确定完成
 > - `has_canceled` `bool` 是否已取消任务
 > - `has_invalided` `bool` 是否已失效
+> - `has_commented` `bool` 是否评论
 > - `state` `int` 任务状态 `0: 草稿， 1: 已发布，2: 待支付，3: 已删除，4: 已取消发布， 5: 待完成，6: 已取消，7: 已完成申请, 8: 已确定完成`
 
 ```json
@@ -48,7 +49,8 @@
             "name": "21cf8bd04e7e",
             "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
             "description": "",
-            "level": 0
+            "level": 0,
+            "score": "2.0"
         },
         "title": "上门修理电脑",
         "order": {
@@ -74,8 +76,16 @@
         },
         "hire_amount": "20.00",
         "fee_amount": "45.00",
-        "node": 2,
-        "mode": 1,
+        "node": {
+            "id": 2,
+            "name": "家政服务",
+            "hot": 0
+        },
+        "mode": {
+            "id": 1,
+            "name": "鲜花"
+        },
+        "site_id": 20,
         "address": "辽宁省大连市甘井子区 红岭校区1-5-606",
         "longitude": 104.07642,
         "latitude": 38.6518,
@@ -104,7 +114,8 @@
             "has_canceled": false,
             "has_completed": true,
             "has_confirmed": true,
-            "has_invalided": false
+            "has_invalided": false,
+            "has_commented": false
         }
     },
     "ok": 1

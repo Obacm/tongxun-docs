@@ -2,6 +2,10 @@
     - [概括](/docs/{{version}}/overview)
 - ## 综合
     - [热门城市](/docs/{{version}}/complex/hot-city)
+- ## 通知 && 消息
+   - [任务通知](/docs/{{version}}/notification/task-notification) 
+   - [系统通知](/docs/{{version}}/notification/system-notification) 
+   - [任务消息](/docs/{{version}}/message/messages) 
 - ## 用户认证
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
@@ -22,6 +26,8 @@
     - [地址删除](/docs/{{version}}/site/site-delete)
 - ## 任务
     - [任务分类](/docs/{{version}}/task/node)
+    - [任务圈主分类](/docs/{{version}}/task/task_node)
+    - [任务圈](/docs/{{version}}/task/tasks)
     - [任务云端草稿](/docs/{{version}}/task/store)
     - [任务发布](/docs/{{version}}/task/publish)
     - [会话建立](/docs/{{version}}/task/session)
@@ -45,6 +51,7 @@
     - [我的发布](/docs/{{version}}/task/member-published)
     - [我的投递](/docs/{{version}}/task/member-applied)
     - [待发布](/docs/{{version}}/task/member-be-publish)
+    - [评分标签](/docs/{{version}}/task/tags)
 - ## 问答
     - [问题类型](/docs/{{version}}/question/category)
     - [问题发布](/docs/{{version}}/question/store)

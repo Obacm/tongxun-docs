@@ -23,6 +23,7 @@
 > - `address` `string` 地址
 > - `village` `string` 详情
 > - `citycode` `string` 城市码
+> - `cityname` `string` 城市名
 > - `is_default` `bool` 是否默认
 
 ## 响应示例
