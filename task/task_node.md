@@ -15,7 +15,7 @@
 ## 响应参数
 
 > - `id` `int` 分类ID
-> - `name `string` 分类名
+> - `name` `string` 分类名
 
 ## 响应示例
 
