@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/[id]`
+> `question/[id]/show`
 
 ## 请求类型
 

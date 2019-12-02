@@ -56,9 +56,9 @@
 - ## 问答
     - [问题类型](/docs/{{version}}/question/category)
     - [问题发布](/docs/{{version}}/question/store)
-    - [问题详情](/docs/{{version}}/question/id)
-    - [问题删除](/docs/{{version}}/question/id/destroy)
-    - [问题编辑](/docs/{{version}}/question/id/update)
+    - [问题详情](/docs/{{version}}/question/show)
+    - [问题删除](/docs/{{version}}/question/destroy)
+    - [问题编辑](/docs/{{version}}/question/update)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
