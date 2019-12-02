@@ -2,6 +2,10 @@
     - [概括](/docs/{{version}}/overview)
 - ## 综合
     - [热门城市](/docs/{{version}}/complex/hot-city)
+- ## 通知 && 消息
+   - [任务通知](/docs/{{version}}/notification/task-notification) 
+   - [系统通知](/docs/{{version}}/notification/system-notification) 
+   - [任务消息](/docs/{{version}}/message/messages) 
 - ## 用户认证
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
