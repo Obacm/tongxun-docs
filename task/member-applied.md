@@ -25,6 +25,7 @@
 > - `has_confirmed` `bool` 是否已确定完成
 > - `has_canceled` `bool` 是否已取消任务
 > - `has_invalided` `bool` 是否已失效
+> - `has_commented` `bool` 是否评论
 > - `state` `int` 任务状态 `0: 草稿， 1: 已发布，2: 待支付，3: 已删除，4: 已取消发布， 5: 待完成，6: 已取消，7: 已完成申请, 8: 已确定完成`
 
 ```json
@@ -83,7 +84,8 @@
                 "has_canceled": true,
                 "has_completed": false,
                 "has_confirmed": false,
-                "has_invalided": true
+                "has_invalided": true,
+                "has_commented": false
             }
         },
         {
