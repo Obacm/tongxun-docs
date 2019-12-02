@@ -7,7 +7,7 @@
 ```json
 {
     "type": 201,
-    "body": {
+    "data": {
         "id": 20,
         "title": "电脑开不开机，黑屏",
         "hire_amount": "30.00",
@@ -33,7 +33,7 @@
 ```json
 {
     "type": 202,
-    "body": {
+    "data": {
         "id": 10,
         "task_id": 20,
         "title": "任务申请",
@@ -47,7 +47,7 @@
 ```json
 {
     "type": 203,
-    "body": {
+    "data": {
         "title": "已接受您的邀约"
     }
 }
@@ -58,7 +58,7 @@
 ```json
 {
     "type": 204,
-    "body": {
+    "data": {
         "title": "已拒绝您的邀约"
     }
 }
@@ -69,7 +69,7 @@
 ```json
 {
     "type": 205,
-    "body": {
+    "data": {
         "title": "碧云天已向您发起了交换电话申请，请您确认是否同意。"
     }
 }
@@ -80,7 +80,7 @@
 ```json
 {
     "type": 2052,
-    "body": {
+    "data": {
         "title": "已拒绝"
     }
 }
@@ -91,7 +91,7 @@
 ```json
 {
     "type": 208,
-    "body": {
+    "data": {
         "id": 20,
         "title": "电脑开不开机，黑屏",
         "hire_amount": "30.00",

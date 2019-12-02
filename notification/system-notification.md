@@ -7,7 +7,7 @@
 ```json
 {
     "type": 1010,
-    "body": {
+    "data": {
         "id": 20,
         "name": "充值成功",
         "amount": "30.00",
@@ -22,7 +22,7 @@
 ```json
 {
     "type": 1052,
-    "body": {
+    "data": {
         "id": 20,
         "name": "退款到账提醒",
         "actual_amount": "30.00",
