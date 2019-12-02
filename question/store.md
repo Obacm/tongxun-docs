@@ -21,7 +21,7 @@
 > - `title` `string` 标题
 > - `content` `string` 内容
 > - `image` `array` 图片
-> - `category_id` `int` 
+> - `category_id` `int` 问题类型
 
 ```json
 {
