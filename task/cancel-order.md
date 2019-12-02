@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `task/[id]/cancel`
+> `task/[id]/cancel/order`
 
 ## 请求类型
 
