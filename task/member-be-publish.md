@@ -20,6 +20,7 @@
 
 > - `order` `json` 订单信息
 > - `has_fee_amount` `bool` 是否有赏金
+> - `is_owner` `bool` 是否是任务所有者
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
 > - `has_confirmed` `bool` 是否已确定完成
@@ -60,6 +61,7 @@
             "state": 0,
             "views_count": 0,
             "has_fee_amount": false,
+            "is_owner": true,
             "start_at": "2019-11-27 17:00:00",
             "end_at": "2019-11-27 20:00:00",
             "published_at": "",

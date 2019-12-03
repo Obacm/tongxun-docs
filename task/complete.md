@@ -18,7 +18,7 @@
 
 #### Body
 
-> - `pics` `array` 图片 `必填`
+> - `evidences` `array` 图片 `必填`
 > - `score` `评分` 评分
 > - `tags` `标签` 标签
 
