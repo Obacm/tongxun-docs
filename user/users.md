@@ -37,8 +37,7 @@
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
 > - `has_payee_verified` `bool` 支付宝认证
-> - `active_at` `string` 最近活动时间
-> - `login_at` `string` 登陆时间
+> - `last_actived_ago` `string` 最近活跃时间
 
 ## 响应示例
 
@@ -62,8 +61,7 @@
         },
         "has_idcard_verified": false,
         "has_payee_verified": false,
-        "active_at": "",
-        "login_at": "2019-10-14 11:19:00"
+        "last_actived_ago": "一个月前"
     },
     "ok": 1
 }
