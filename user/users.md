@@ -61,7 +61,7 @@
         },
         "has_idcard_verified": false,
         "has_payee_verified": false,
-        "last_actived_at": "一个月前"
+        "last_actived_at": "一个月前活跃" 
     },
     "ok": 1
 }

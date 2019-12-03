@@ -71,7 +71,7 @@
         "has_idcard_verified": false,
         "has_payee_verified": false,
         "has_pay_password": true,
-        "last_actived_at": "一个月前"
+        "last_actived_at": "刚刚活跃" 
     },
     "ok": 1
 }
