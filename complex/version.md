@@ -15,8 +15,8 @@
 #### Query
 
 > - `client` `int` 客户端类型 `1: ios，2: android`
-> - `app` `int` app类型 `master: 主要发布版本`
-> - `version` `int` 本地app版本号
+> - `app` `string` app类型 `master: 主要发布版本`
+> - `version` `string` 本地app版本号
 
 ## 响应示例
 
