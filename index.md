@@ -2,6 +2,7 @@
     - [概括](/docs/{{version}}/overview)
 - ## 综合
     - [热门城市](/docs/{{version}}/complex/hot-city)
+    - [广告](/docs/{{version}}/advert/ad)
 - ## 通知 && 消息
    - [任务通知](/docs/{{version}}/notification/task-notification) 
    - [系统通知](/docs/{{version}}/notification/system-notification) 
