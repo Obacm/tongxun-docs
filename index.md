@@ -62,6 +62,13 @@
     - [问题详情](/docs/{{version}}/question/show)
     - [问题删除](/docs/{{version}}/question/destroy)
     - [问题编辑](/docs/{{version}}/question/update)
+    - [问题列表](/docs/{{version}}/question/index)
+    - [回答发布](/docs/{{version}}/answer/store)
+    - [回答详情](/docs/{{version}}/answer/show)
+    - [回答删除](/docs/{{version}}/answer/destroy)
+    - [回答编辑](/docs/{{version}}/answer/update)
+    - [回答列表](/docs/{{version}}/answer/index)
+    
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
