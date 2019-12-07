@@ -46,9 +46,30 @@
     "type": 202,
     "data": {
         "id": 10,
-        "task_id": 20,
-        "title": "任务申请",
-        "content": "碧云天已向您发起了任务邀约申请，请您确认是否接受该申请。"
+        "task": {
+            "id": 10,
+            "title": "君不见"
+        },
+        "inviter": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "invitee": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        }
     }
 }
 ```
@@ -59,7 +80,27 @@
 {
     "type": 203,
     "data": {
-        "title": "已接受您的邀约"
+        "inviter": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "invitee": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "state": 1
     }
 }
 ```
@@ -70,7 +111,27 @@
 {
     "type": 204,
     "data": {
-        "title": "已拒绝您的邀约"
+        "inviter": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "invitee": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "state": 0
     }
 }
 ```
