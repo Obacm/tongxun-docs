@@ -142,7 +142,26 @@
 {
     "type": 205,
     "data": {
-        "title": "碧云天已向您发起了交换电话申请，请您确认是否同意。"
+        "sender": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "swaper": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        }
     }
 }
 ```
@@ -153,7 +172,26 @@
 {
     "type": 2052,
     "data": {
-        "title": "已拒绝"
+        "sender": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "swaper": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        }
     }
 }
 ```
