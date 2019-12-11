@@ -19,8 +19,8 @@
 #### Body
 
 > - `evidences` `array` 图片 `必填`
-> - `score` `评分` 评分
-> - `tags` `标签` 标签
+> - `score` `int` 评分
+> - `tags` `array` `标签` 标签
 
 ## 响应示例
 

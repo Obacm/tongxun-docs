@@ -16,6 +16,11 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
+#### Body
+
+> - `score` `int` 评分
+> - `tags` `array`  标签
+
 ## 响应示例
 
 ```json
