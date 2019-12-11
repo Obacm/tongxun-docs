@@ -21,31 +21,36 @@
     "data": [
             {
                 "id": 1,
-                "title": "测试标题66",
-                "content": "测试内容66",
+                "title": "测试标题987",
+                "content": "测试内容987",
                 "image": [
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
                 ],
-                "user_id": 1,
-                "category_id": 6,
-                "answer_count": 6,
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
+                "category_id": 1,
+                "answer_count": 4,
                 "created_at": "2019-12-03 18:47:39",
-                "updated_at": "2019-12-05 10:53:34"
-            },
-            {
-                "id": 8,
-                "title": "测试标题00",
-                "content": "测试内容00",
-                "image": [
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-                ],
-                "user_id": 1,
-                "category_id": 2,
-                "answer_count": 2,
-                "created_at": "2019-12-04 09:57:39",
-                "updated_at": "2019-12-05 10:59:03"
+                "updated_at": "2019-12-11 15:29:47"
             },
             {
                 "id": 2,
@@ -55,7 +60,27 @@
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
                 ],
-                "user_id": 1,
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
                 "category_id": 1,
                 "answer_count": 0,
                 "created_at": "2019-12-04 09:11:39",
@@ -69,7 +94,27 @@
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
                 ],
-                "user_id": 1,
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
                 "category_id": 8,
                 "answer_count": 0,
                 "created_at": "2019-12-04 09:25:27",
@@ -83,11 +128,99 @@
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
                     "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
                 ],
-                "user_id": 1,
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
                 "category_id": 5,
                 "answer_count": 0,
                 "created_at": "2019-12-04 09:36:37",
                 "updated_at": "2019-12-04 09:36:37"
+            },
+            {
+                "id": 8,
+                "title": "测试标题00",
+                "content": "测试内容00",
+                "image": [
+                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
+                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
+                ],
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
+                "category_id": 2,
+                "answer_count": 2,
+                "created_at": "2019-12-04 09:57:39",
+                "updated_at": "2019-12-09 10:50:42"
+            },
+            {
+                "id": 10,
+                "title": "测试标题123456",
+                "content": "测试内容123456",
+                "image": [
+                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
+                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
+                ],
+                "user": {
+                    "id": 1,
+                    "name": "王大力",
+                    "mobile": "15898146121",
+                    "avatar": "",
+                    "level": 0,
+                    "birthday": "",
+                    "province": "",
+                    "city": "",
+                    "site_id": null,
+                    "gender": "male",
+                    "settings": {
+                        "push_notify": 1,
+                        "email_notify": 1
+                    },
+                    "accid": "yx_1",
+                    "has_idcard_verified": false,
+                    "has_payee_verified": false,
+                    "has_pay_password": false,
+                    "last_actived_at": "2019-12-11T07:30:49.000000Z"
+                },
+                "category_id": 3,
+                "answer_count": 0,
+                "created_at": "2019-12-11 15:21:47",
+                "updated_at": "2019-12-11 15:21:47"
             }
         ],
         "links": {
@@ -102,8 +235,8 @@
             "last_page": 1,
             "path": "http://tongxun.test/api/question/index",
             "per_page": 10,
-            "to": 5,
-            "total": 5
+            "to": 6,
+            "total": 6
         },
         "ok": 1
 }
