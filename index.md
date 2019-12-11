@@ -56,6 +56,7 @@
     - [我的投递](/docs/{{version}}/task/member-applied)
     - [待发布](/docs/{{version}}/task/member-be-publish)
     - [评分标签](/docs/{{version}}/task/tags)
+    - [客服](/docs/{{version}}/task/customer)
 - ## 问答
     - [问题类型](/docs/{{version}}/question/category)
     - [问题发布](/docs/{{version}}/question/question-store)
