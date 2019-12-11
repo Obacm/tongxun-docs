@@ -12,6 +12,12 @@
 
 ## 请求参数
 
+#### Header
+
+> - `Authorization` `Bearer access_token` 授权token
+
+#### Query
+
 > - `type` `int` 评论类型 `1: 发布者->接取者的评论, 2: 接取者->发布者的评论`
 
 ## 响应示例
