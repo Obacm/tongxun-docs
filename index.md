@@ -44,6 +44,7 @@
     - [同意号码交换](/docs/{{version}}/task/swap-agree)
     - [拒绝号码交换](/docs/{{version}}/task/swap-refuse)
     - [取消任务](/docs/{{version}}/task/cancel)
+    - [强制取消任务](/docs/{{version}}/task/cancel-force)
     - [取消支付](/docs/{{version}}/task/cancel-order)
     - [同意取消任务](/docs/{{version}}/task/cancel-agree)
     - [拒绝取消任务](/docs/{{version}}/task/cancel-refuse)

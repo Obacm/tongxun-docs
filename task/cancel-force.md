@@ -1,10 +1,10 @@
-# 拒绝取消任务
+# 强制取消任务
 
-拒绝取消的任务的消息
+强制取消任务
 
 ## 请求地址
 
-> `task/[id]/cancel/refuse`
+> `task/[id]/cancel/force`
 
 ## 请求类型
 
