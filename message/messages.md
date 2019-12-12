@@ -204,6 +204,10 @@
 {
     "type": 206,
     "data": {
+        "task": {
+            "id": 10,
+            "title": "君不见"
+        },
         "sender": {
             "id": 1,
             "tx_id": "f3d0d305f962",
