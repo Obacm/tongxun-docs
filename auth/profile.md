@@ -30,6 +30,7 @@
 > - `province` `string` 省
 > - `city` `string` 市
 > - `level` `int` 用户等级
+> - `score` `int` 评分
 > - `settings` `json` 通知设置
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
@@ -54,6 +55,7 @@
         "province": "",
         "city": "",
         "level": 0,
+        "score": "5.0",
         "settings": {
             "im_notify": true,
             "qa_notify": true,
