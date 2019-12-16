@@ -30,7 +30,7 @@
 > - `province` `string` 省
 > - `city` `string` 市
 > - `level` `int` 用户等级
-> - `score` `int` 评分
+> - `score` `string` 评分
 > - `settings` `json` 通知设置
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
