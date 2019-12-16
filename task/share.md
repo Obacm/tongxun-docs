@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `task/[id]/user/[id]/share`
+> `task/[id]/share`
 
 ## 请求类型
 
@@ -15,6 +15,10 @@
 #### Header
 
 > - `Authorization` `Bearer access_token` 授权token
+
+#### Body
+
+> - `accid` 对象accid `群ID 或者 人ID`
 
 ## 响应示例
 
