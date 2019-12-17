@@ -5,6 +5,7 @@
     - [版本更新](/docs/{{version}}/complex/version)
     - [广告](/docs/{{version}}/complex/ad)
 - ## 通知 && 消息
+   - [通知列表](/docs/{{version}}/notification/notifications) 
    - [任务通知](/docs/{{version}}/notification/task-notification) 
    - [系统通知](/docs/{{version}}/notification/system-notification) 
    - [任务消息](/docs/{{version}}/message/messages) 
