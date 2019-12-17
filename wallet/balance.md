@@ -16,6 +16,10 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
+## 响应参数
+
+> - `balance` `string` 余额
+
 ## 响应示例
 
 ```json
