@@ -15,6 +15,7 @@
     - [获取用户信息](/docs/{{version}}/auth/profile)
 - ## 用户
     - [获取其他用户信息](/docs/{{version}}/user/users)
+    - [获取他的任务](/docs/{{version}}/user/user-tasks)
     - [更新用户信息](/docs/{{version}}/user/user-update)
     - [用户检查](/docs/{{version}}/user/user-check)
     - [用户查询](/docs/{{version}}/user/user-search)
