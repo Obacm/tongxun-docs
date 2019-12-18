@@ -75,7 +75,7 @@
             "id": "9018ca42-8f2f-49fb-bf52-55da99408b32",
             "type": "task_complete_user_notification",
             "data": {
-                "type": 2073,
+                "type": 2071,
                 "data": {
                     "id": 87,
                     "name": "任务已完成",
@@ -105,7 +105,7 @@
             "id": "2f1bd87f-afa4-45fc-a975-083590acc37f",
             "type": "task_invite_applier_notification",
             "data": {
-                "type": 2031,
+                "type": 2072,
                 "data": {
                     "id": 87,
                     "name": "任务订单反馈",
@@ -121,7 +121,7 @@
             "id": "8f2aa9b1-852b-4e77-98e8-b6b446c52e4b",
             "type": "task_not_paid_notification",
             "data": {
-                "type": 2032,
+                "type": 2001,
                 "data": {
                     "id": 87,
                     "name": "任务订单支付",
