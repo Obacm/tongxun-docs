@@ -21,7 +21,7 @@
 > - `amount` `float` 金额
 > - `subject` `string` 描述
 > - `channel` `string` 支付渠道 `alipay: 支付宝`
-> - `type` `int` 订单类型 `1: 充值, 2: 提现, 3: 任务, 4: 红包`
+> - `type` `int` 订单类型 `1: 充值, 2: 提现`
 
 ## 响应示例
 
