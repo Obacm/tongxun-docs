@@ -41,26 +41,10 @@
             }
         },
         {
-            "id": "077b8096-4e0c-4302-8a23-2771b2021c2a",
-            "type": "task_invite_applier_notification",
-            "data": {
-                "type": 2031,
-                "data": {
-                    "id": 84,
-                    "name": "任务订单反馈",
-                    "title": "225",
-                    "user": "哈哈哈",
-                    "applier": "贾海然",
-                    "remark": "您已同意对方的任务邀接",
-                    "applied_at": "2019-12-16 13:51:05"
-                }
-            }
-        },
-        {
             "id": "d4980be9-73e4-4a33-8bfd-cbb5f05eb677",
             "type": "task_complete_applier_notification",
             "data": {
-                "type": 2032,
+                "type": 2072,
                 "data": {
                     "id": 84,
                     "name": "任务已完成",
@@ -87,33 +71,34 @@
             }
         },
         {
-            "id": "c353e7c0-e525-4ecb-a7a6-2d7b028be92a",
-            "type": "task_cancel_notification",
+            "id": "077b8096-4e0c-4302-8a23-2771b2021c2a",
+            "type": "task_invite_applier_notification",
             "data": {
-                "type": 2073,
+                "type": 2031,
                 "data": {
-                    "id": 87,
+                    "id": 84,
                     "name": "任务订单反馈",
-                    "title": "1234",
-                    "user": "贾海然",
-                    "remark": "您的任务已失效",
-                    "created_at": "2019-12-16 13:32:10"
+                    "title": "225",
+                    "user": "哈哈哈",
+                    "applier": "贾海然",
+                    "remark": "您已同意对方的任务邀接",
+                    "applied_at": "2019-12-16 13:51:05"
                 }
             }
         },
         {
-            "id": "2f1bd87f-afa4-45fc-a975-083590acc37f",
-            "type": "task_invite_applier_notification",
+            "id": "a6fd387e-3b23-4c6f-90aa-2c0a7f37f97b",
+            "type": "task_invite_user_notification",
             "data": {
-                "type": 2072,
+                "type": 2032,
                 "data": {
-                    "id": 87,
+                    "id": 86,
                     "name": "任务订单反馈",
-                    "title": "1234",
-                    "user": "贾海然",
+                    "title": "邀接",
+                    "user": "陈杰",
                     "applier": "哈哈哈",
-                    "remark": "您已同意对方的任务邀接",
-                    "applied_at": "2019-12-16 13:33:14"
+                    "remark": "对方已同意您的任务邀接",
+                    "applied_at": "2019-12-16 11:28:37"
                 }
             }
         },
@@ -144,117 +129,6 @@
                     "user": "贾海然",
                     "remark": "您的任务已成功发布",
                     "created_at": "2019-12-16 13:32:10"
-                }
-            }
-        },
-        {
-            "id": "5a8f1f83-3a79-40a3-bb7b-3cd9512e4314",
-            "type": "task_invite_applier_notification",
-            "data": {
-                "type": 2031,
-                "data": {
-                    "id": 86,
-                    "name": "任务订单反馈",
-                    "title": "邀接",
-                    "user": "陈杰",
-                    "applier": "哈哈哈",
-                    "remark": "您已同意对方的任务邀接",
-                    "applied_at": "2019-12-16 11:28:37"
-                }
-            }
-        },
-        {
-            "id": "a6fd387e-3b23-4c6f-90aa-2c0a7f37f97b",
-            "type": "task_invite_user_notification",
-            "data": {
-                "type": 2032,
-                "data": {
-                    "id": 86,
-                    "name": "任务订单反馈",
-                    "title": "邀接",
-                    "user": "陈杰",
-                    "applier": "哈哈哈",
-                    "remark": "对方已同意您的任务邀接",
-                    "applied_at": "2019-12-16 11:28:37"
-                }
-            }
-        },
-        {
-            "id": "c36c8797-65f1-45ca-95b7-2deb4db9a69e",
-            "type": "task_published_notification",
-            "data": {
-                "type": 2000,
-                "data": {
-                    "id": 86,
-                    "name": "任务发布成功",
-                    "title": "邀接",
-                    "user": "陈杰",
-                    "remark": "您的任务已成功发布",
-                    "created_at": "2019-12-16 11:28:16"
-                }
-            }
-        },
-        {
-            "id": "1e4a6675-9f1b-4ae1-8f78-dd3caa145fc3",
-            "type": "task_invite_applier_notification",
-            "data": {
-                "type": 2031,
-                "data": {
-                    "id": 85,
-                    "name": "任务订单反馈",
-                    "title": "123",
-                    "user": "哈哈哈",
-                    "applier": "陈杰",
-                    "remark": "您已同意对方的任务邀接",
-                    "applied_at": "2019-12-16 11:24:26"
-                }
-            }
-        },
-        {
-            "id": "f131be33-659b-46a6-868e-02ddcc703e29",
-            "type": "task_invite_user_notification",
-            "data": {
-                "type": 2032,
-                "data": {
-                    "id": 85,
-                    "name": "任务订单反馈",
-                    "title": "123",
-                    "user": "哈哈哈",
-                    "applier": "陈杰",
-                    "remark": "对方已同意您的任务邀接",
-                    "applied_at": "2019-12-16 11:24:26"
-                }
-            }
-        },
-        {
-            "id": "84b3aa41-bc0d-499d-80ef-ae36f2af91f4",
-            "type": "task_invite_user_notification",
-            "data": {
-                "type": 2032,
-                "data": {
-                    "id": 76,
-                    "name": "任务订单反馈",
-                    "title": "445",
-                    "user": "56320cfdf338",
-                    "applier": "哈哈哈",
-                    "remark": "对方已同意您的任务邀接",
-                    "applied_at": "2019-12-16 11:21:29"
-                }
-            }
-        },
-        {
-            "id": "c6c6b8fd-bd3d-43b5-bc04-6e1e2bedc4cf",
-            "type": "task_invite_applier_notification",
-            "data": {
-                "type": 2031,
-                "data": {
-                    "id": 76,
-                    "name": "任务订单反馈",
-                    "title": "445",
-                    "user": "56320cfdf338",
-                    "applier": "哈哈哈",
-                    "remark": "您已同意对方的任务邀接",
-                    "applied_at": "2019-12-16 11:21:29"
                 }
             }
         }
