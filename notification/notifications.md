@@ -58,32 +58,31 @@
         },
         {
             "id": "d4980be9-73e4-4a33-8bfd-cbb5f05eb677",
-            "type": "task_invite_user_notification",
+            "type": "task_complete_applier_notification",
             "data": {
                 "type": 2032,
                 "data": {
                     "id": 84,
-                    "name": "任务订单反馈",
+                    "name": "任务已完成",
                     "title": "225",
                     "user": "哈哈哈",
-                    "applier": "贾海然",
-                    "remark": "对方已同意您的任务邀接",
-                    "applied_at": "2019-12-16 13:51:05"
+                    "remark": "对方已同意你的完成申请",
+                    "confirmed_at": "2019-12-16 13:51:05"
                 }
             }
         },
         {
             "id": "9018ca42-8f2f-49fb-bf52-55da99408b32",
-            "type": "task_cancel_notification",
+            "type": "task_complete_user_notification",
             "data": {
                 "type": 2073,
                 "data": {
                     "id": 87,
-                    "name": "任务订单反馈",
+                    "name": "任务已完成",
                     "title": "1234",
                     "user": "贾海然",
-                    "remark": "您的任务已失效",
-                    "created_at": "2019-12-16 13:32:10"
+                    "remark": "您的任务已被完成，请确认",
+                    "completed_at": "2019-12-16 13:32:10"
                 }
             }
         },
@@ -120,17 +119,16 @@
         },
         {
             "id": "8f2aa9b1-852b-4e77-98e8-b6b446c52e4b",
-            "type": "task_invite_user_notification",
+            "type": "task_not_paid_notification",
             "data": {
                 "type": 2032,
                 "data": {
                     "id": 87,
-                    "name": "任务订单反馈",
+                    "name": "任务订单支付",
                     "title": "1234",
                     "user": "贾海然",
-                    "applier": "哈哈哈",
-                    "remark": "对方已同意您的任务邀接",
-                    "applied_at": "2019-12-16 13:33:14"
+                    "remark": "您有一笔待支付的赏金",
+                    "created_at": "2019-12-16 13:33:14"
                 }
             }
         },
