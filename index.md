@@ -4,6 +4,7 @@
     - [热门城市](/docs/{{version}}/complex/hot-city)
     - [版本更新](/docs/{{version}}/complex/version)
     - [广告](/docs/{{version}}/complex/ad)
+    - [语音 && 关键字搜索](/docs/{{version}}/complex/search)
 - ## 通知 && 消息
    - [通知列表](/docs/{{version}}/notification/notifications) 
    - [任务通知](/docs/{{version}}/notification/task-notification) 
