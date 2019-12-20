@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `packet/{packet}/check`
+> `packet/[packet]/check`
 
 ## 请求类型
 

@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `packets/{packet}/seize`
+> `packets/[packet]/seize`
 
 ## 请求类型
 
