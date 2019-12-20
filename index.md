@@ -72,6 +72,9 @@
     - [删除评论](/docs/{{version}}/question/comment-destroy)
     - [推荐列表](/docs/{{version}}/question/recommend)
     - [分类列表](/docs/{{version}}/question/category-show)
+    - [评论点赞](/docs/{{version}}/question/praise-store)
+    - [回答点赞](/docs/{{version}}/question/like-store)
+    - [问题综合详情](/docs/{{version}}/question/summary)
     
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
