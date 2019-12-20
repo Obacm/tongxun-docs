@@ -4,7 +4,9 @@
     - [热门城市](/docs/{{version}}/complex/hot-city)
     - [版本更新](/docs/{{version}}/complex/version)
     - [广告](/docs/{{version}}/complex/ad)
+    - [语音 && 关键字搜索](/docs/{{version}}/complex/search)
 - ## 通知 && 消息
+   - [通知列表](/docs/{{version}}/notification/notifications) 
    - [任务通知](/docs/{{version}}/notification/task-notification) 
    - [系统通知](/docs/{{version}}/notification/system-notification) 
    - [任务消息](/docs/{{version}}/message/messages) 
@@ -14,6 +16,7 @@
     - [获取用户信息](/docs/{{version}}/auth/profile)
 - ## 用户
     - [获取其他用户信息](/docs/{{version}}/user/users)
+    - [获取他的任务](/docs/{{version}}/user/user-tasks)
     - [更新用户信息](/docs/{{version}}/user/user-update)
     - [用户检查](/docs/{{version}}/user/user-check)
     - [用户查询](/docs/{{version}}/user/user-search)
@@ -44,6 +47,7 @@
     - [同意号码交换](/docs/{{version}}/task/swap-agree)
     - [拒绝号码交换](/docs/{{version}}/task/swap-refuse)
     - [取消任务](/docs/{{version}}/task/cancel)
+    - [强制取消任务](/docs/{{version}}/task/cancel-force)
     - [取消支付](/docs/{{version}}/task/cancel-order)
     - [同意取消任务](/docs/{{version}}/task/cancel-agree)
     - [拒绝取消任务](/docs/{{version}}/task/cancel-refuse)
@@ -56,6 +60,7 @@
     - [我的投递](/docs/{{version}}/task/member-applied)
     - [待发布](/docs/{{version}}/task/member-be-publish)
     - [评分标签](/docs/{{version}}/task/tags)
+    - [客服](/docs/{{version}}/task/customer)
 - ## 问答
     - [问题类型](/docs/{{version}}/question/category)
     - [问题发布](/docs/{{version}}/question/question-store)
@@ -82,6 +87,7 @@
     - [钱包支付](/docs/{{version}}/trade/trade-payment)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
+    - [余额](/docs/{{version}}/wallet/balance)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)

@@ -1,10 +1,10 @@
-# 任务分享
+# 客服
 
 聊天框里任务分享
 
 ## 请求地址
 
-> `task/[id]/share`
+> `task/[id]/customer`
 
 ## 请求类型
 
@@ -15,10 +15,6 @@
 #### Header
 
 > - `Authorization` `Bearer access_token` 授权token
-
-#### Body
-
-> - `accid` 对象accid `群ID 或者 人ID`
 
 ## 响应示例
 

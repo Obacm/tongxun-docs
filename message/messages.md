@@ -198,11 +198,135 @@
 }
 ```
 
+## 取消任务申请
+
+```json
+{
+    "type": 206,
+    "data": {
+        "task": {
+            "id": 10,
+            "title": "君不见"
+        },
+        "sender": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "user": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "state": 0
+    }
+}
+```
+
+## 同意取消任务申请
+
+```json
+{
+    "type": 2061,
+    "data": {
+        "sender": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "user": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "state": 1
+    }
+}
+```
+
+## 拒绝取消任务申请
+
+```json
+{
+    "type": 2062,
+    "data": {
+        "sender": {
+            "id": 1,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_1",
+            "name": "athena",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "user": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "state": 2
+    }
+}
+```
+
 ## 任务分享
 
 ```json
 {
     "type": 208,
+    "data": {
+        "id": 20,
+        "title": "电脑开不开机，黑屏",
+        "hire_amount": "30.00",
+        "fee_amount": "20.00",
+        "description": "电脑开不开机，黑屏",
+        "user": {
+            "id": 2,
+            "tx_id": "f3d0d305f962",
+            "accid": "yx_2",
+            "name": "obacm",
+            "avatar": "http:://api.tongxun.test/storage/default_avatars/pic_020.jpg",
+            "bio": "",
+            "level": 0,
+            "score": "5.0"
+        },
+        "has_fee_amount": true,
+        "created_at": "2019-11-25 14:37:11"
+    }
+}
+```
+
+## 客服任务
+
+```json
+{
+    "type": 209,
     "data": {
         "id": 20,
         "title": "电脑开不开机，黑屏",

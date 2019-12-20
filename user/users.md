@@ -33,6 +33,7 @@
 > - `province` `string` 省
 > - `city` `string` 市
 > - `level` `int` 用户等级
+> - `score` `string` 评分
 > - `mobile` `string` 手机号
 > - `privacies` `json` 用户隐私
 > - `has_idcard_verified` `bool` 身份认证
@@ -51,6 +52,7 @@
         "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
         "bio": "",
         "level": 0,
+        "score": "5.0",
         "privacies": {
             "qa_enabled": false,
             "task_enabled": false,

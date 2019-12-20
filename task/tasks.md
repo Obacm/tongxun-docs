@@ -1,4 +1,4 @@
-# 任务圈
+# 任务圈 && 任务搜索
 
 任务圈 根据查询条件查询任务列表
 
@@ -15,6 +15,7 @@
 #### Query
 
 > - `position` `string` 纬经度  `可选参数` `120.522736,38.86783` `经度在前，纬度在后`
+> - `keyword` `string` 搜索内容 `可选参数`
 > - `filter` `string` 查询条件 `必需传` `multiple: 综合，distance: 距离, fee: 赏金, published: 发布时间, hire: 佣金` 
 > - `node` `int` 一级分类 `可选参数` 
 > - `mode` `int` 二级分类 `可选参数` 
