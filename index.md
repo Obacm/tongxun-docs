@@ -85,6 +85,10 @@
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
     - [钱包支付](/docs/{{version}}/trade/trade-payment)
+- ## 红包
+    - [红包创建](/docs/{{version}}/packet/packet-create)
+    - [红包抢夺](/docs/{{version}}/packet/packet-seize)
+    - [红包检查](/docs/{{version}}/packet/packet-check)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
     - [余额](/docs/{{version}}/wallet/balance)

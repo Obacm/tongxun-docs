@@ -23,12 +23,14 @@
     "ok": 1
 }
 ```
+## 客服云信accid
+`yx_003`
 
 ## 云信消息
 
 ```json
 {
-    "type": 201,
+    "type": 209,
     "body": {
         "title": "上门修电脑",
         "hire_amount": "20.00",

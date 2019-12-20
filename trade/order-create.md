@@ -20,8 +20,8 @@
 
 > - `amount` `float` 金额
 > - `subject` `string` 描述
-> - `channel` `string` 支付渠道 `alipay: 支付宝`
-> - `type` `int` 订单类型 `1: 充值, 2: 提现`, 4: 红包`
+> - `channel` `string` 支付渠道 `alipay: 支付宝，wallet: 钱包` 
+> - `type` `int` 订单类型 `1: 充值, 2: 提现, 4: 红包`
 
 ## 响应示例
 
