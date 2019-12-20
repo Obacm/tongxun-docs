@@ -89,6 +89,7 @@
     - [红包创建](/docs/{{version}}/packet/packet-create)
     - [红包抢夺](/docs/{{version}}/packet/packet-seize)
     - [红包检查](/docs/{{version}}/packet/packet-check)
+    - [红包详情](/docs/{{version}}/packet/packet-show)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
     - [余额](/docs/{{version}}/wallet/balance)
