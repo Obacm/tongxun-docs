@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `packets/[packet]`
+> `packets/[id]`
 
 ## 请求类型
 
