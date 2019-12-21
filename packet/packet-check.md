@@ -16,8 +16,6 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-#### Body
-
 ## 响应示例
 
 ```json
