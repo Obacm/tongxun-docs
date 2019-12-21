@@ -16,8 +16,10 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-#### Body
+#### Query
 
+> - `type` 类型 `1: 收到的，2：发的`
+> - `date` 年份 `2018, 2019`
 
 ## 响应示例
 
