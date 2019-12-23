@@ -18,6 +18,7 @@
 - ## 用户
     - [获取其他用户信息](/docs/{{version}}/user/users)
     - [获取他的任务](/docs/{{version}}/user/user-tasks)
+    - [获取他的问题](/docs/{{version}}/user/user-questions)
     - [更新用户信息](/docs/{{version}}/user/user-update)
     - [用户检查](/docs/{{version}}/user/user-check)
     - [用户查询](/docs/{{version}}/user/user-search)
@@ -82,7 +83,6 @@
     - [回答点赞](/docs/{{version}}/question/like-store)
     - [问题综合详情](/docs/{{version}}/question/summary)
     - [问题搜索](/docs/{{version}}/question/question-filter)
-    - [他人问题](/docs/{{version}}/question/question-other)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
