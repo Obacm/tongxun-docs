@@ -80,7 +80,8 @@
     - [评论点赞](/docs/{{version}}/question/praise-store)
     - [回答点赞](/docs/{{version}}/question/like-store)
     - [问题综合详情](/docs/{{version}}/question/summary)
-    
+    - [问题搜索](/docs/{{version}}/question/filter)
+    - [他人问题](/docs/{{version}}/question/other)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
