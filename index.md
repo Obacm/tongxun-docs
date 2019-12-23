@@ -10,6 +10,7 @@
    - [任务通知](/docs/{{version}}/notification/task-notification) 
    - [系统通知](/docs/{{version}}/notification/system-notification) 
    - [任务消息](/docs/{{version}}/message/messages) 
+   - [红包消息](/docs/{{version}}/message/packets) 
 - ## 用户认证
     - [注册](/docs/{{version}}/auth/register)
     - [登陆](/docs/{{version}}/auth/login)
@@ -90,6 +91,8 @@
     - [红包创建](/docs/{{version}}/packet/packet-create)
     - [红包抢夺](/docs/{{version}}/packet/packet-seize)
     - [红包检查](/docs/{{version}}/packet/packet-check)
+    - [红包详情](/docs/{{version}}/packet/packet-show)
+    - [红包记录](/docs/{{version}}/packet/packet-logs)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
     - [余额](/docs/{{version}}/wallet/balance)

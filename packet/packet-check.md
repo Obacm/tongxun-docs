@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `packet/[packet]/check`
+> `packet/[id]/check`
 
 ## 请求类型
 
@@ -16,14 +16,36 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-#### Body
-
-
-
 ## 响应示例
 
 ```json
 {
     "ok": 1
+}
+```
+
+## 异常响应示例
+
+```json
+{
+    "msg": "红包已经被抢完了",
+    "state": 1,
+    "ok": 0
+}
+```
+
+```json
+{
+    "msg": "红包已经过期了",
+    "state": 2,
+    "ok": 0
+}
+```
+
+```json
+{
+    "msg": "已抢到过红包了",
+    "state": 3,
+    "ok": 0
 }
 ```
