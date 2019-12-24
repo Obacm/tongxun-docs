@@ -95,6 +95,7 @@
     - [红包记录](/docs/{{version}}/packet/packet-logs)
 - ## 钱包
     - [流水帐](/docs/{{version}}/wallet/waters)
+    - [流水详情](/docs/{{version}}/wallet/water-show)
     - [余额](/docs/{{version}}/wallet/balance)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
