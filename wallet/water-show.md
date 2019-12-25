@@ -250,7 +250,7 @@
             "status": 1,
             "succeed_at": "2019-12-24 16:37:25"
         },
-        "in_out_type": 0,
+        "in_out_type": 1,
         "type": 7,
         "created_at": "2019-12-24 16:37:25"
     },
@@ -288,7 +288,7 @@
             "status": 1,
             "succeed_at": "2019-12-24 16:37:25"
         },
-        "in_out_type": 0,
+        "in_out_type": 1,
         "type": 8,
         "created_at": "2019-12-24 16:37:25"
     },
