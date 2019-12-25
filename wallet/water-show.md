@@ -19,6 +19,7 @@
 
 ## 响应参数
 
+>  `type` 账单类型 `1: 充值， 2: 提现，3: 任务支付，4: 红包支付，5: 红包退还，6: `
 
 ## 响应示例
 
@@ -36,7 +37,7 @@
             "avatar": "https://api.wtdoe.com/storage/default_avatars/pic_020.jpg",
             "bio": ""
         },
-        "subject": "大江",
+        "subject": "群聊（大江）",
         "actual_amount": "20.00",
         "waterable": {
             "id": 108,
@@ -44,13 +45,13 @@
             "order_no": "20191224133326758187",
             "trade_no": null,
             "data": {
-                "type": 0,
-                "title": "新年快乐",
+                "type": 1,
+                "subject": "群聊（大江）",
                 "packet_id": 40
             },
             "amount": "20.00",
             "channel": "wallet",
-            "subject": "大江",
+            "subject": "群聊（大江）",
             "status": 1,
             "succeed_at": "2019-12-24 13:33:26"
         },
@@ -84,8 +85,8 @@
             "order_no": "20191224133326758187",
             "trade_no": null,
             "data": {
-                "type": 0,
-                "title": "新年快乐",
+                "type": 1,
+                "subject": "群聊（大江）",
                 "packet_id": 40
             },
             "amount": "20.00",
@@ -116,7 +117,7 @@
             "avatar": "https://api.wtdoe.com/storage/default_avatars/pic_020.jpg",
             "bio": ""
         },
-        "subject": "红包退还",
+        "subject": "群聊（大江）",
         "actual_amount": "20.00",
         "waterable": {
             "id": 108,
@@ -124,13 +125,13 @@
             "order_no": "20191224133326758187",
             "trade_no": null,
             "data": {
-                "type": 0,
-                "title": "新年快乐",
+                "type": 1,
+                "subject": "群聊（大江）",
                 "packet_id": 40
             },
             "amount": "20.00",
             "channel": "wallet",
-            "subject": "红包退还",
+            "subject": "群聊（大江）",
             "status": 1,
             "succeed_at": "2019-12-24 13:33:26"
         },
@@ -163,7 +164,10 @@
             "user_id": 24,
             "order_no": "20191224153154528652",
             "trade_no": "20191224153154528652",
-            "data": null,
+            "data": {
+                "buyer_id": "碧云天",
+                "gmt_payment": "2019-12-24 15:35:42"
+            },
             "amount": "0.02",
             "channel": "alipay",
             "subject": "充值",
@@ -183,7 +187,7 @@
 ```json
 {
     "data": {
-        "id": 229,
+        "id": 232,
         "user": {
             "id": 20,
             "tx_id": "c4c2452c1214",
@@ -195,24 +199,99 @@
         "subject": "任务赏金",
         "actual_amount": "5.00",
         "waterable": {
-            "id": 103,
+            "id": 105,
             "user_id": 20,
-            "order_no": "20191224160527573439",
+            "order_no": "20191224163722163113",
             "data": {
-                "title": "念去去千里烟波",
-                "task_id": 138
+                "title": "暮霭沉沉楚天阔",
+                "task_id": 139
             },
             "amount": "5.00",
             "channel": "wallet",
             "subject": "任务赏金",
             "status": 1,
-            "succeed_at": "2019-12-24 16:05:30"
+            "succeed_at": "2019-12-24 16:37:25"
         },
         "in_out_type": 0,
         "type": 3,
-        "created_at": "2019-12-24 16:05:30"
+        "created_at": "2019-12-24 16:37:25"
     },
     "ok": 1
 }
 ```
 
+#### 任务赏金 退还
+
+```json
+{
+    "data": {
+        "id": 232,
+        "user": {
+            "id": 20,
+            "tx_id": "c4c2452c1214",
+            "accid": "yx_20",
+            "name": "obacmss",
+            "avatar": "https://api.wtdoe.com/storage/default_avatars/pic_020.jpg",
+            "bio": ""
+        },
+        "subject": "任务已失效，赏金退换",
+        "actual_amount": "5.00",
+        "waterable": {
+            "id": 105,
+            "user_id": 20,
+            "order_no": "20191224163722163113",
+            "data": {
+                "title": "暮霭沉沉楚天阔",
+                "task_id": 139
+            },
+            "amount": "5.00",
+            "channel": "wallet",
+            "subject": "任务已失效，赏金退换",
+            "status": 1,
+            "succeed_at": "2019-12-24 16:37:25"
+        },
+        "in_out_type": 0,
+        "type": 7,
+        "created_at": "2019-12-24 16:37:25"
+    },
+    "ok": 1
+}
+```
+
+#### 任务赏金 进账
+
+```json
+{
+    "data": {
+        "id": 232,
+        "user": {
+            "id": 20,
+            "tx_id": "c4c2452c1214",
+            "accid": "yx_20",
+            "name": "obacmss",
+            "avatar": "https://api.wtdoe.com/storage/default_avatars/pic_020.jpg",
+            "bio": ""
+        },
+        "subject": "任务赏金",
+        "actual_amount": "5.00",
+        "waterable": {
+            "id": 105,
+            "user_id": 20,
+            "order_no": "20191224163722163113",
+            "data": {
+                "title": "暮霭沉沉楚天阔",
+                "task_id": 139
+            },
+            "amount": "5.00",
+            "channel": "wallet",
+            "subject": "任务赏金",
+            "status": 1,
+            "succeed_at": "2019-12-24 16:37:25"
+        },
+        "in_out_type": 0,
+        "type": 8,
+        "created_at": "2019-12-24 16:37:25"
+    },
+    "ok": 1
+}
+```
