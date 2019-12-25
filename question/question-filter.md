@@ -16,7 +16,7 @@
 
 > - `Authorization` `Bearer access_token` 授权token
 
-#### Body
+#### Query
 
 > - `keyword` `string` 搜索内容
 

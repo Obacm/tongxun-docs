@@ -29,69 +29,15 @@
                 "id": 4,
                 "title": "家里卫生间贴瓷砖",
                 "content": "需要一个瓦工",
-                "image": [
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-                ],
-                "user": {
-                    "id": 1,
-                    "name": "王大力",
-                    "mobile": "15898146121",
-                    "avatar": "",
-                    "level": 0,
-                    "birthday": "",
-                    "province": "",
-                    "city": "",
-                    "site_id": null,
-                    "gender": "male",
-                    "settings": {
-                        "push_notify": 1,
-                        "email_notify": 1
-                    },
-                    "accid": "yx_1",
-                    "has_idcard_verified": false,
-                    "has_payee_verified": false,
-                    "has_pay_password": false,
-                    "last_actived_at": "2019-12-23T10:41:50.000000Z"
-                },
-                "category_id": 6,
                 "answer_count": 0,
-                "created_at": "2019-12-21 10:18:03",
-                "updated_at": "2019-12-21 10:18:03"
+                "created_at": "2019-12-21 10:18:03"
             },
             {
                 "id": 1,
                 "title": "测试标题1",
                 "content": "测试内容1",
-                "image": [
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
-                    "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg"
-                ],
-                "user": {
-                    "id": 1,
-                    "name": "王大力",
-                    "mobile": "15898146121",
-                    "avatar": "",
-                    "level": 0,
-                    "birthday": "",
-                    "province": "",
-                    "city": "",
-                    "site_id": null,
-                    "gender": "male",
-                    "settings": {
-                        "push_notify": 1,
-                        "email_notify": 1
-                    },
-                    "accid": "yx_1",
-                    "has_idcard_verified": false,
-                    "has_payee_verified": false,
-                    "has_pay_password": false,
-                    "last_actived_at": "2019-12-23T10:41:50.000000Z"
-                },
-                "category_id": 3,
                 "answer_count": 1,
-                "created_at": "2019-12-13 10:25:11",
-                "updated_at": "2019-12-23 15:25:39"
+                "created_at": "2019-12-13 10:25:11"
             }
         ],
         "links": {
