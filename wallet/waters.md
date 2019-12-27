@@ -46,8 +46,7 @@
                 "accid": "yx_1",
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "description": "",
-                "level": 0
+                "bio": ""
             },
             "subject": "充值",
             "actual_amount": "0.01",
@@ -64,8 +63,7 @@
                 "accid": "yx_1",
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "description": "",
-                "level": 0
+                "bio": ""
             },
             "subject": "任务赏金",
             "actual_amount": "0.01",
@@ -82,8 +80,7 @@
                 "accid": "yx_1",
                 "name": "obacmss",
                 "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
-                "description": "",
-                "level": 0
+                "bio": ""
             },
             "subject": "大江",
             "actual_amount": "0.01",
