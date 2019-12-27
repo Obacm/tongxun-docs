@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `wallet/water/[water]`
+> `wallet/waters/[id]`
 
 ## 请求类型
 
