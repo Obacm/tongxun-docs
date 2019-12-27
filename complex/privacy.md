@@ -16,6 +16,6 @@
 
 ```json
 [
-    "https://privacy.tongxuns.com",
-    "https://privacy.tongxuns.com/privacy/privacy.html"
+    "https://privacy.tongxuntx.com",
+    "https://privacy.tongxuntx.com/privacy/privacy.html"
 ]
