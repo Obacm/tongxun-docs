@@ -18,8 +18,8 @@
 
 #### Body
 
-> - `longitude` `float` 经度
-> - `latitude` `float` 纬度
+> - `longitude` `string` 经度
+> - `latitude` `string` 纬度
 > - `address` `string` 地址
 > - `village` `string` 详情
 > - `citycode` `string` 城市码
