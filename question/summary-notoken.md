@@ -12,10 +12,6 @@
 
 ## 请求参数
 
-#### Header
-
-> - `Authorization` `Bearer access_token` 授权token
-
 ## 响应示例
 
 ```json
@@ -64,7 +60,7 @@
                          "has_idcard_verified": false,
                          "has_payee_verified": false,
                          "has_pay_password": false,
-                         "last_actived_at": "2020-01-06T06:36:08.000000Z"
+                         "last_actived_at": "2020-01-06T06:54:22.000000Z"
                      },
                      "content": "测试回答123456",
                      "image": [],
@@ -98,7 +94,7 @@
                              "has_idcard_verified": false,
                              "has_payee_verified": false,
                              "has_pay_password": false,
-                             "last_actived_at": "2020-01-06T06:36:08.000000Z"
+                             "last_actived_at": "2020-01-06T06:54:22.000000Z"
                          },
                          "category_id": 6,
                          "answer_count": 1,
@@ -129,16 +125,16 @@
                                  "has_idcard_verified": false,
                                  "has_payee_verified": false,
                                  "has_pay_password": false,
-                                 "last_actived_at": "2020-01-06T06:36:08.000000Z"
+                                 "last_actived_at": "2020-01-06T06:54:22.000000Z"
                              },
                              "content": "测试评论666",
                              "praise_count": 13,
-                             "has_praised": true,
+                             "has_praised": false,
                              "created_at": "2020-01-03 16:24:38",
                              "updated_at": "2020-01-06 14:35:55"
                          }
                      ],
-                     "has_liked": true,
+                     "has_liked": false,
                      "created_at": "2020-01-03 16:21:46",
                      "updated_at": "2020-01-06 14:36:01"
                  }
