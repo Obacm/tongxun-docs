@@ -34,7 +34,8 @@
             "avatar": "http://api.tongxun.test/storage/default_avatars/pic_020.jpg",
             "bio": "",
             "level": 0,
-            "score": "2.0"
+            "score": 5,
+            "last_actived_at": "4小时前活跃"
         },
         "title": "测试队列66",
         "hire_amount": "20.00",
