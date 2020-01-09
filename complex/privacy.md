@@ -15,7 +15,10 @@
 ## 响应示例
 
 ```json
-[
-    "https://privacy.tongxuntx.com",
-    "https://privacy.tongxuntx.com/privacy/privacy.html"
-]
+{
+    "data": {
+        "user": "https://privacy.tongxuntx.com",
+        "privacy": "https://privacy.tongxuntx.com/privacy/privacy.html"
+    },
+    "ok": 1
+}
