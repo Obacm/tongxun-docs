@@ -4,6 +4,14 @@
 
 > `https://api.wtdoe.com/api`
 
+## 客户端区分
+
+### 请求头 X-Client
+
+> 安卓: Android
+
+> 苹果: iOS
+
 ## 服务器异常响应
 
 
