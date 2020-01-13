@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/store`
+> `questions`
 
 ## 请求类型
 

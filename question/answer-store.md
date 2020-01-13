@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `answer/store`
+> `answers`
 
 ## 请求类型
 

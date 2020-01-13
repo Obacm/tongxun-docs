@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `answer/index`
+> `answers`
 
 ## 请求类型
 

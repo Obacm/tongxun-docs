@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/recommend`
+> `questions/recommend`
 
 ## 请求类型
 

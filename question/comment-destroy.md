@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `comment/[id]/destroy`
+> `comments/[id]`
 
 ## 请求类型
 

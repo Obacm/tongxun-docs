@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `answer/[id]/update`
+> `answers/[id]`
 
 ## 请求类型
 

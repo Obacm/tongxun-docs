@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `comment/[id]/edit`
+> `comments/[id]/edit`
 
 ## 请求类型
 

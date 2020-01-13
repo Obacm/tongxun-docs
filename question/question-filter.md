@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/filter`
+> `questions/filter`
 
 ## 请求类型
 

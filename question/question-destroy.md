@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/[id]/destroy`
+> `questions/[id]`
 
 ## 请求类型
 

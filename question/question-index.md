@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `question/index`
+> `questions`
 
 ## 请求类型
 

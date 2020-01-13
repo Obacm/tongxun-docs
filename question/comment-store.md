@@ -4,7 +4,7 @@
 
 ## 请求地址
 
-> `comment/store`
+> `comments`
 
 ## 请求类型
 
