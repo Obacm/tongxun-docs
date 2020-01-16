@@ -103,7 +103,7 @@
     - [余额](/docs/{{version}}/wallet/balance)
 - ## 服务
     - [短信发送](/docs/{{version}}/service/sms-code)
-    - [注册短信发送](/docs/{{version}}/service/sms-reg_code)
+    - [注册短信发送](/docs/{{version}}/service/sms-reg-code)
     - [短信验证](/docs/{{version}}/service/sms-verify)
     - [图片上传](/docs/{{version}}/service/file-oss)
 - ## 设置
