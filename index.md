@@ -87,6 +87,9 @@
     - [问题搜索](/docs/{{version}}/question/question-filter)
     - [回答评论列表](/docs/{{version}}/question/comment-edit)
     - [问题综合详情无token](/docs/{{version}}/question/summary-notoken)
+- ## 收藏
+    - [任务收藏](/docs/{{version}}/favorite/favorite-task)
+    - [问题收藏](/docs/{{version}}/favorite/favorite-question)
 - ## 交易
     - [订单创建](/docs/{{version}}/trade/order-create)
     - [钱包充值](/docs/{{version}}/trade/trade-recharge)
