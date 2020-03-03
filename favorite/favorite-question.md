@@ -6,6 +6,8 @@
 
 > `favorite/questions/[id]`
 
+##### <font color="blue">须知</font>
+
 > {warning} [id] 表示问题ID 需要把问题ID 拼接在 `questions/` 后面
 
 ## 请求类型
