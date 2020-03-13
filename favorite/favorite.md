@@ -4,11 +4,7 @@
 
 ## 请求地址
 
-> `favorite/tasks/[id]`
-
-##### <font color="blue">须知</font>
-
-> {warning} [id] 表示任务ID 需要把任务ID 拼接在 `tasks/` 后面
+> `favorite/[id]/toggle`
 
 ## 请求类型
 
