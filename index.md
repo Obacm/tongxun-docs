@@ -46,6 +46,7 @@
     - [删除任务](/docs/{{version}}/task/destroy)
     - [取消发布](/docs/{{version}}/task/remove)
     - [任务详情](/docs/{{version}}/task/show)
+    - [任务详情-Token](/docs/{{version}}/tasks/auth_show)
     - [任务预览](/docs/{{version}}/task/preview)
     - [号码交换](/docs/{{version}}/task/swap)
     - [同意号码交换](/docs/{{version}}/task/swap-agree)

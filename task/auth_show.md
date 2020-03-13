@@ -1,10 +1,10 @@
-# 任务圈-任务详情
+# 任务圈-任务详情-需要token
 
-任务详情
+任务详情-需要token
 
 ## 请求地址
 
-> `tasks/[id]`
+> `tasks/auth/[id]`
 
 ## 请求类型
 
@@ -68,7 +68,7 @@
         "state": 1,
         "views_count": 0,
         "has_fee_amount": false,
-        "has_favorited": false,
+        "has_favorited": true,
         "start_at": "2019-11-29 15:25:00",
         "end_at": "2019-11-29 15:30:00",
         "published_at": "2019-11-29 09:36:17",

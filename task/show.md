@@ -107,6 +107,7 @@
         "state": 7,
         "views_count": 0,
         "has_fee_amount": true,
+        "has_favorited": false,
         "is_owner": true,
         "start_at": "2019-11-25 17:00:00",
         "end_at": "2019-11-25 20:00:00",
