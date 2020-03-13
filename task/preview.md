@@ -13,6 +13,7 @@
 ## 响应示例
 
 > - `has_fee_amount` `bool` 是否有赏金
+> - `has_favorited` `bool` 是否有收藏
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
 > - `has_confirmed` `bool` 是否已确定完成

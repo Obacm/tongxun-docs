@@ -21,6 +21,7 @@
 > - `order` `json` 订单信息
 > - `evidences` `array` 完成任务的图片
 > - `has_fee_amount` `bool` 是否有赏金
+> - `has_favorited` `bool` 是否有收藏
 > - `is_owner` `bool` 是否是任务所有者
 > - `has_published` `bool` 是否已发布
 > - `has_completed` `bool` 是否已申请完成
