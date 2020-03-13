@@ -69,6 +69,7 @@
                     39.7
                 ]
             },
+            "distance": 15.91,
             "description": "测试队列66",
             "pics": [
                 "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
@@ -124,6 +125,7 @@
                     39.7
                 ]
             },
+            "distance": 15.91,
             "description": "测试活动日志",
             "pics": [
                 "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
@@ -179,6 +181,7 @@
                     39.7
                 ]
             },
+            "distance": 15.91,
             "description": "测试活动日志",
             "pics": [
                 "https://tvax3.sinaimg.cn/crop.0.0.1006.1006.180/4c7f9b17ly8fwpigg780qj20ry0ryabc.jpg",
