@@ -10,6 +10,10 @@
 
 > `GET`
 
+#### Header
+
+> - `Authorization` `Bearer access_token` 授权token
+
 ## 响应示例
 
 > - `has_fee_amount` `bool` 是否有赏金
