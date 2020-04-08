@@ -88,6 +88,23 @@
             "type": 1,
             "waterable_type": "packet",
             "created_at": "2019-11-15 17:53:20"
+        },
+        {
+            "id": 1377,
+            "user": {
+                "id": 1,
+                "tx_id": "f3d0d305f962",
+                "accid": "yx_1",
+                "name": "obacmss",
+                "avatar": "https://zchat-app-image.oss-cn-zhangjiakou.aliyuncs.com/K4gzeImxE6XeRfz7ATJvqqg8tLtVKLWkLvjLDNM0.jpeg",
+                "bio": "念去去千里烟波，暮霭沉沉楚天阔"
+            },
+            "subject": "提现",
+            "actual_amount": "2.00",
+            "in_out_type": 0,
+            "type": 2,
+            "waterable_type": "wallet",
+            "created_at": "2020-04-07 13:26:53"
         }
     ],
     "links": {

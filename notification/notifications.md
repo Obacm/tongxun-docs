@@ -131,6 +131,21 @@
                     "created_at": "2019-12-16 13:32:10"
                 }
             }
+        },
+        {
+            "id": "f13cae6f-905e-4f91-8b89-2fe4155b72a9",
+            "type": "task_published_notification",
+            "data": {
+                "type": 2000,
+                "data": {
+                    "id": 87,
+                    "name": "任务发布成功",
+                    "title": "1234",
+                    "user": "贾海然",
+                    "remark": "您的任务已成功发布",
+                    "created_at": "2019-12-16 13:32:10"
+                }
+            }
         }
     ],
     "links": {

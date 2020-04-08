@@ -18,7 +18,8 @@
 
 #### Body
 
-> - `amount` `float` 金额
+> - `amount` `string` 金额
+> - `actual_amount` `string` 实际金额
 > - `subject` `string` 描述
 > - `channel` `string` 支付渠道 `alipay: 支付宝，wallet: 钱包` 
 > - `type` `int` 订单类型 `1: 充值, 2: 提现, 4: 红包`
