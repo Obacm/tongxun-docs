@@ -23,7 +23,7 @@
 ## 响应参数
 
 > - `amount` `float` 原始金额
-> - `charge_amount` `float` 实际到账金额
+> - `actual_amount` `float` 实际到账金额
 > - `charge_amount` `float` 手续费
 
 ## 响应示例
