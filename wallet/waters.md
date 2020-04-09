@@ -53,6 +53,7 @@
             "in_out_type": 1,
             "type": 1,
             "waterable_type": "wallet",
+            "position": "同讯钱包",
             "created_at": "2019-11-15 17:31:04"
         },
         {
@@ -70,6 +71,7 @@
             "in_out_type": 1,
             "type": 1,
             "waterable_type": "task",
+            "position": "同讯钱包",
             "created_at": "2019-11-15 17:53:07"
         },
         {
@@ -87,6 +89,7 @@
             "in_out_type": 1,
             "type": 1,
             "waterable_type": "packet",
+            "position": "同讯钱包",
             "created_at": "2019-11-15 17:53:20"
         },
         {
@@ -104,6 +107,7 @@
             "in_out_type": 0,
             "type": 2,
             "waterable_type": "wallet",
+            "position": "支付宝",
             "created_at": "2020-04-07 13:26:53"
         }
     ],
