@@ -32,6 +32,7 @@
     - [地址创建](/docs/{{version}}/site/site-create)
     - [地址更新](/docs/{{version}}/site/site-update)
     - [地址删除](/docs/{{version}}/site/site-delete)
+    - [默认地址](/docs/{{version}}/site/site-default)
 - ## 任务
     - [任务分类](/docs/{{version}}/task/node)
     - [热门分类](/docs/{{version}}/task/node_hot)
